@@ -1,0 +1,68 @@
+  AMEN BANK                                                              Edite le :02/07/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|419531    |         50,000|SHELL RUE TURQUIE  SOGTUNIS CEDE   000TN     |27/06/2013 13:01:24|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :02/07/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|809005    |        188,000|FRANCH CITY SPORT A208TUNIS           TN     |30/06/2013 18:20:08|
+|501778    |         34,900|STE TUNTEX 2 SA       TUNIS CEDE   000TN     |30/06/2013 16:53:00|
+|881422    |         79,990|SHOP GALLERY CENTRAL  TUNIS           TN     |30/06/2013 16:29:12|
+|225957    |         60,000|ATM STAR OIL           TUNIS          TN     |30/06/2013 13:20:32|
+|606394    |         52,000|TN     |15/06/2013 17:16:54|
+|596018    |        200,000|TUNIS          TN     |15/06/2013 17:00:07|
+|319836    |         60,000|TN     |15/06/2013 14:56:20|
+|901364    |         10,000|TUNTN     |13/06/2013 21:35:12|
+|448661    |        330,000|TUNIS        000TN     |13/06/2013 18:38:20|
+|647336    |        100,000||12/06/2013 07:31:02|
+|456575    |        145,000|TUNTN     |11/06/2013 19:05:54|
+|119491    |         56,000|TN     |05/06/2013 18:28:55|
+|381959    |        400,000|ARIANA         TN     |05/06/2013 12:46:32|
+|616120    |          7,240||04/06/2013 18:19:43|
+|650447    |        200,000|TN     |03/06/2013 13:45:53|
+|359754    |         10,000|TUNTN     |02/06/2013 15:17:46|
+|954668    |         39,160|(EL)   000TN     |02/06/2013 12:21:22|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------

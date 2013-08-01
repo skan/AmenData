@@ -1,0 +1,73 @@
+  AMEN BANK                                                              Edite le :01/08/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|287144    |         10,890|CARREFOUR             PHENICIA  MAN   TN     |29/07/2013 15:48:47|
+|816191    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |24/07/2013 08:19:35|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/08/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4990,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|926176    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |01/08/2013 00:41:19|
+|615501    |        100,000|ATM LE BARDO           TUNIS          TN     |28/07/2013 17:42:42|
+|518839    |         55,906|CARREFOUR TUNIS       TUNIS           TN     |23/07/2013 22:31:11|
+|412005    |         50,000|ATM EL MANAR CAMPUS    TUNIS          TN     |22/07/2013 20:48:02|
+|294551    |         50,000|SHELL MENZAH 9        TUNIS           TN     |22/07/2013 18:17:15|
+|753917    |         36,000|OCTAVE                EL MENZAH 5     TN     |21/07/2013 16:37:13|
+|627901    |          5,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |21/07/2013 14:16:56|
+|988533    |         15,840|GEANT TUNIS CITY      ARIANA       000TN     |20/07/2013 16:35:53|
+|789807    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |17/07/2013 08:02:27|
+|902340    |         55,000|SHELL ETTADHAMEN  STE CITE ETTAD   000TN     |07/07/2013 17:17:44|
+|153638    |         10,500|SONEDE                EL MANAR     TUNTN     |07/07/2013 09:50:04|
+|666206    |         77,000|RESTAURANT LE GOLF    MARSA SAFS   000TN     |06/07/2013 15:27:01|
+|011176    |         37,300|STEG                  TUNIS        TUNTN     |03/07/2013 21:53:04|
+|809005    |        188,000|FRANCH CITY SPORT A208TUNIS           TN     |30/06/2013 18:20:08|
+|501778    |         34,900|STE TUNTEX 2 SA       TUNIS CEDE   000TN     |30/06/2013 16:53:00|
+|881422    |         79,990|SHOP GALLERY CENTRAL  TUNIS           TN     |30/06/2013 16:29:12|
+|225957    |         60,000|ATM STAR OIL           TUNIS          TN     |30/06/2013 13:20:32|
+|606394    |         52,000|STATION OILYBIA.MANAR EL MANAR III    TN     |15/06/2013 17:16:54|
+|596018    |        200,000|ATM EL MANAR CAMPUS    TUNIS          TN     |15/06/2013 17:00:07|
+|319836    |         60,000|CAFE VERT LA GOULETTE TUNIS           TN     |15/06/2013 14:56:20|
+
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
