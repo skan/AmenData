@@ -47,6 +47,7 @@ Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :   
 ----------------------------------------------------------------------------------------------
 |N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
 ----------------------------------------------------------------------------------------------
+|408328    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |28/08/2013 21:03:36|
 |763293    |         40,000|TOTAL ALMERIA BOUTIQUEGROMBALIA       TN     |23/08/2013 08:44:49|
 |677806    |        100,000|GAB BZ SIDI BOU SAID  SIDI BOU SAIDTN TN     |22/08/2013 20:17:01|
 |851211    |         75,000|FESTIVAL EL JEM       EL JEM          TN     |22/08/2013 17:05:29|
@@ -61,7 +62,6 @@ Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :   
 |435046    |         24,850|MONOPRIX EL MANAR     MANAR (EL)   000TN     |07/08/2013 16:23:32|
 |604172    |        400,000|ATM EL MANAR CAMPUS    TUNIS          TN     |07/08/2013 15:43:19|
 |926176    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |01/08/2013 00:41:19|
-|615501    |        100,000|ATM LE BARDO           TUNIS          TN     |28/07/2013 17:42:42|
 ----------------------------------------------------------------------------------------------
  
  
