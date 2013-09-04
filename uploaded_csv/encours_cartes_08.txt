@@ -1,0 +1,68 @@
+  AMEN BANK                                                              Edite le :27/08/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     102,156
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|234413    |         55,000|ESSO SORTIE SUD       TUNIS        JERTN     |20/08/2013 14:46:16|
+|966133    |         42,844|CLINIQUE TAOUFIK      TUNIS        TUNTN     |05/08/2013 14:35:52|
+|287144    |         10,890|CARREFOUR             PHENICIA  MAN   TN     |29/07/2013 15:48:47|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :27/08/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    3994,350
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|763293    |         40,000|TOTAL ALMERIA BOUTIQUEGROMBALIA       TN     |23/08/2013 08:44:49|
+|677806    |        100,000|GAB BZ SIDI BOU SAID  SIDI BOU SAIDTN TN     |22/08/2013 20:17:01|
+|851211    |         75,000|FESTIVAL EL JEM       EL JEM          TN     |22/08/2013 17:05:29|
+|258282    |        280,000|REST.SPORT NAUTIQUE T2BIZERTE         TN     |18/08/2013 15:19:24|
+|009577    |        295,000|STE GARDEROBE         MANAR (EL)   000TN     |16/08/2013 16:37:18|
+|720359    |         55,000|SHELL MENZAH 9        TUNIS           TN     |15/08/2013 17:51:42|
+|179727    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |15/08/2013 07:14:38|
+|579707    |         13,700|STAF LA FETE          LA SOUKRA    TUNTN     |14/08/2013 18:21:13|
+|175600    |         42,600|GEANT TUNIS CITY      ARIANA       000TN     |14/08/2013 17:45:08|
+|265407    |        104,500|STE MARIOT            MENZAH 9     000TN     |13/08/2013 18:00:11|
+|774738    |         55,000|STATION OILYBIA.MANAR EL MANAR III    TN     |10/08/2013 13:40:32|
+|435046    |         24,850|MONOPRIX EL MANAR     MANAR (EL)   000TN     |07/08/2013 16:23:32|
+|604172    |        400,000|ATM EL MANAR CAMPUS    TUNIS          TN     |07/08/2013 15:43:19|
+|926176    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |01/08/2013 00:41:19|
+|615501    |        100,000|ATM LE BARDO           TUNIS          TN     |28/07/2013 17:42:42|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
