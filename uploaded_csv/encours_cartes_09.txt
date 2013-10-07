@@ -52,6 +52,7 @@ Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :   
 |771006    |         51,000|OILIBYA ESSASSI MED SGEL OUARDIA   000TN     |07/09/2013 16:36:01|
 |380279    |         42,640|MONOPRIX EL MANAR     MANAR (EL)   000TN     |07/09/2013 16:14:04|
 |141186    |         50,000|ATM ENNASR             ARIANA         TN     |06/09/2013 07:01:18|
+|083015    |         50,000|SNDP 3                TUNIS        TUNTN     |01/09/2013 08:49:13|
 |024087    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |05/09/2013 14:52:38|
 ----------------------------------------------------------------------------------------------
  
