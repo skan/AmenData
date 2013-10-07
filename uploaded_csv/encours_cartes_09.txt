@@ -1,0 +1,59 @@
+  AMEN BANK                                                              Edite le :04/10/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|686861    |        200,000|ATM EL MANAR CAMPUS    TUNIS          TN     |28/09/2013 14:31:05|
+|271148    |         36,000|HOTEL SHERATON TUNIS  TUNIS BELV   000TN     |07/09/2013 08:46:32|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :04/10/2013
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4978,100
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|985022    |         21,900|SONEDE                EL MANAR     TUNTN     |02/10/2013 19:14:43|
+|351138    |         62,200|STEG                  TUNIS        TUNTN     |18/09/2013 22:15:36|
+|166577    |         12,900|STE LA VILLA          TUNIS        TUNTN     |14/09/2013 11:44:03|
+|771006    |         51,000|OILIBYA ESSASSI MED SGEL OUARDIA   000TN     |07/09/2013 16:36:01|
+|380279    |         42,640|MONOPRIX EL MANAR     MANAR (EL)   000TN     |07/09/2013 16:14:04|
+|141186    |         50,000|ATM ENNASR             ARIANA         TN     |06/09/2013 07:01:18|
+|024087    |         10,000|MSM MAAROUF SERVICE   BENAROUSSE   TUNTN     |05/09/2013 14:52:38|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
