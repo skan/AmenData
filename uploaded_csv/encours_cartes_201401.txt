@@ -1,0 +1,59 @@
+  AMEN BANK                                                              Edite le :28/01/2014
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :      95,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|200011    |        105,000|REST. LE CHATEAU NEUF HAMMAMET     000TN     |04/01/2014 15:05:21|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :28/01/2014
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4499,500
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|792738    |        150,000|ATM EL MANAR CAMPUS    TUNIS          TN     |23/01/2014 17:42:22|
+|866596    |        460,000|STE VITAL FORM        MANAR (EL)   000TN     |19/01/2014 11:17:35|
+|309118    |        100,000|ATM CHARGUIA II        CHARGUIA       TN     |17/01/2014 10:01:27|
+|953333    |         15,000|STE HAMTEL            EL GHAZALA      TN     |02/01/2014 23:32:42|
+|833245    |          5,500|STEG                  TUNIS        TUNTN     |02/01/2014 22:54:26|
+|114307    |         20,000|SONEDE                EL MANAR     TUNTN     |02/01/2014 22:26:27|
+|029874    |         45,500|3 AV LE BOULEVARD     BERGES DU LAC   TN     |29/12/2013 14:29:33|
+|084969    |         46,240|GEANT TUNIS CITY      ARIANA       000TN     |29/12/2013 12:36:53|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
