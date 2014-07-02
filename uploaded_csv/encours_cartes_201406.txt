@@ -1,0 +1,61 @@
+  AMEN BANK                                                              Edite le :01/07/2014
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/07/2014
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|815012    |        147,800|STEG                  TUNIS        TUNTN     |29/06/2014 13:30:03|
+|868282    |         95,000|RES.BELLE VUE         HAMMAMET     TUNTN     |28/06/2014 16:31:04|
+|321986    |        300,000|ATM EL MANAR CAMPUS    TUNIS          TN     |28/06/2014 09:25:36|
+|198024    |        300,000|ATM EL MANAR CAMPUS    TUNIS          TN     |28/06/2014 09:24:42|
+|303152    |         20,000|STE HAMTEL            EL GHAZALA      TN     |28/06/2014 08:35:38|
+|026267    |        100,000|ATB EL MANAR          MANAR (EL)   000TN     |27/06/2014 19:14:57|
+|325286    |        132,160|STE LA VILLA          TUNIS        TUNTN     |21/06/2014 14:14:58|
+|949265    |         43,330|STE LA VILLA          TUNIS        TUNTN     |21/06/2014 11:55:39|
+|447355    |         35,400|STE LA VILLA          TUNIS        TUNTN     |20/06/2014 13:46:37|
+|850162    |         52,488|TAXES MUNICIPALES     TUNIS           TN     |04/06/2014 06:44:47|
+|521843    |         15,000|STE HAMTEL            EL GHAZALA      TN     |01/06/2014 12:14:23|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
