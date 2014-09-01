@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 04 14 ANCIEN SOLDE                                                1 028,573
+  59 02 05 14 DAB CACS AB                  30 04 14         100,000
+  59 02 05 14 ACHAT DU                     30 04 14         138,000
+  61 05 05 14 CION ENC/ 1 CHQ 7760         05 05 14             700
+  61 05 05 14 TVA SUR CION ENCAISSEMENT    05 05 14             126
+  59 05 05 14 DAB CACS AB                  02 05 14         400,000
+  61 06 05 14 ENC 1 CHQ                    07 05 14                       2 790,000
+  82 07 05 14 CHQ 3577390 FAV ZOUHAIER ABD 06 05 14          53,000
+  59 09 05 14 ACHAT DU                     08 05 14         394,100
+  53 09 05 14 RECH TN USSD 09052014 058140 08 05 14           5,000
+  59 09 05 14 ACHAT DU                     08 05 14          20,000
+  59 12 05 14 ACHAT                        09 05 14          75,400
+  82 15 05 14 CHQ 3577391 FAV HATEM TAKALI 14 05 14          47,000
+  59 19 05 14 DAB CACS AUTRE BQ            16 05 14          60,000
+  82 19 05 14 CHQ 3577392 FAV ABDELKEFI ZO 16 05 14          43,000
+  59 19 05 14 CION/RET DAB                 16 05 14           1,000
+  59 19 05 14 TVA/CION RET DAB             16 05 14             180
+  58 20 05 14 TPE DU  13.05.14 OPE 052153  13 05 14         175,000
+  82 21 05 14 CHQ 3577385 FAV S T E R      20 05 14          39,000
+  82 22 05 14 CHQ 3577393 FAV MR SAKKA HAS 21 05 14          59,000
+  59 23 05 14 ACHAT DU                     22 05 14          30,000
+  53 26 05 14 CION  AMENNET P1 05/14       23 05 14           4,000
+  53 26 05 14 TVA SUR AMENNET P1 05/14     23 05 14             720
+  32 26 05 14 INT/ CREDIT LONG TERME HABIT 27 05 14         477,240
+  71 27 05 14 VIR O/ST MICRO ELECTRONICS S 28 05 14                       1 370,370
+  80 27 05 14 REGLEMENT  EFFET  AU : 27052 27 05 14         294,192
+  71 27 05 14 CION/VIRT RECU               28 05 14           1,416
+  80 27 05 14 CION/REGLEMENT EFFET         27 05 14           2,950
+  59 29 05 14 ACHAT DU                     28 05 14          58,000
+  59 30 05 14 ACHAT DU                     29 05 14          40,397
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 519,421       5 188,943
+
+              FOLIO NO :   1   SOLDE AU  31.05.2014                       2 669,522
+
+---
+
+---
+
