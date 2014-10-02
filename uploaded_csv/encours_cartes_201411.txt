@@ -1,0 +1,64 @@
+  AMEN BANK                                                              Edite le :02/12/2014
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|122249    |        200,000|ATM DENDEN             DEN DEN        TN     |23/11/2014 16:00:29|
+|994178    |        100,000|ATM DENDEN             DEN DEN        TN     |23/11/2014 15:59:39|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :02/12/2014
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4926,838
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|953257    |         73,162|GEANT TUNIS CITY      ARIANA       000TN     |01/12/2014 21:48:07|
+|982612    |         22,145|MONOPRIX EL MANAR     MANAR (EL)   000TN     |30/11/2014 19:58:11|
+|818356    |         62,100|KIOSQUE AGIL BOURKHIS H.SOUSSE        TN     |30/11/2014 12:45:12|
+|041774    |         22,800|STE ALLIANCE DIFFUSIONTUNIS           TN     |30/11/2014 12:35:12|
+|762965    |        135,000|HOTEL MOVENPICK       SOUSSE       TN TN     |29/11/2014 23:16:33|
+|102064    |         50,000|ATM EL MANAR CAMPUS    TUNIS          TN     |27/11/2014 08:47:35|
+|225245    |          4,755|CARREFOUR             PHENICIA  MAN   TN     |25/11/2014 19:41:25|
+|856714    |         21,000|KHAMSA EVENTS         EL MANAR 2   SA TN     |23/11/2014 16:15:00|
+|668577    |        100,000|ATM EL MANAR           TUNIS          TN     |23/11/2014 16:04:34|
+|325125    |         26,130|CARREFOUR             MENZEH09        TN     |23/11/2014 15:52:20|
+|675616    |          5,000|AKMEN GAMES           TUNIS        TUNTN     |23/11/2014 15:18:13|
+|728579    |        200,000|TUNIS AEROPORT        TUNIS        000TN     |08/11/2014 11:53:56|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
