@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 07 14 ANCIEN SOLDE                                                1 415,176
+  59 01 08 14 ACHAT DU                     31 07 14          20,000
+  59 04 08 14 ACHAT DU                     01 08 14          48,500
+  59 04 08 14 ACHAT DU                     01 08 14          44,300
+  59 07 08 14 DAB CACS AB                  06 08 14         100,000
+  53 08 08 14 RECH TN USSD 08082014 058140 07 08 14           5,000
+  82 12 08 14 CHQ 4319145 FAV STE BLUE MOT 11 08 14         109,000
+  53 12 08 14 RECH TN USSD 12082014 058140 11 08 14           5,000
+  60 15 08 14 VERSEMENT 05820140815VER264  18 08 14                       5 000,000
+  53 18 08 14 RECH TN USSD 18082014 058140 15 08 14           5,000
+  58 19 08 14 TPE DU  11.08.14 OPE 104812  11 08 14          80,000
+  82 19 08 14 CHQ 4319147 FAV HATEM TAKALI 18 08 14          60,000
+  82 19 08 14 CHQ 4319144 FAV GECER HALIT  18 08 14         170,000
+  82 19 08 14 CHQ 4319148 FAV STE SOBAQUE  18 08 14          30,560
+  82 19 08 14 CHQ 4319143 FAV SICERAM PLUS 18 08 14         323,088
+  82 19 08 14 CHQ 4319146 FAV STE D'EQUIPE 18 08 14       1 000,000
+  59 21 08 14 ACHAT DU                     20 08 14          27,200
+  82 22 08 14 CHQ 4319150 FAV LOTFI GHRAIR 21 08 14       1 350,000
+  58 25 08 14 TPE DU  18.08.14 OPE 229117  18 08 14          30,170
+  82 25 08 14 CHQ 6069401 FAV ASKRI SLAHED 22 08 14         672,000
+  32 26 08 14 INT/ CREDIT LONG TERME HABIT 27 08 14         504,310
+  65 27 08 14 COMM/AUT PASS DECOUVERT REF: 26 08 14           4,000
+  65 27 08 14 TVA/COMM/AUT PASS DECOUVERT  26 08 14             720
+  80 27 08 14 REGLEMENT  EFFET  AU : 27082 27 08 14         283,485
+  80 27 08 14 CION/REGLEMENT EFFET         27 08 14           2,950
+  53 27 08 14 RECH TN USSD 27082014 058140 26 08 14           5,000
+  82 27 08 14 CHQ 6069404 FAV IDEAL CUISIN 26 08 14       1 650,000
+  71 28 08 14 CION/VIRT RECU               29 08 14           1,416
+  82 28 08 14 CHQ 6069405 FAV STE SOBAQUE  27 08 14          53,861
+  71 28 08 14 VIR O/ST MICRO ELECTRONICS S 29 08 14                       1 426,380
+  53 29 08 14 CION  AMENNET P1 08/14       28 08 14           4,000
+  53 29 08 14 TVA SUR AMENNET P1 08/14     28 08 14             720
+  61 29 08 14 TVA SUR CION ENCAISSEMENT    29 08 14             252
+  61 29 08 14 CION ENC/ 2 CHQ 2152         29 08 14           1,400
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      6 591,932       7 841,556
+
+              FOLIO NO :   1   SOLDE AU  31.08.2014                       1 249,624
+
+---
+
+---
+

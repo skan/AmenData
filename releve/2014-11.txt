@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 10 14 ANCIEN SOLDE                                                  739,253
+  53 03 11 14 RECH TN USSD 03112014 058141 31 10 14           5,000
+  60 05 11 14 VERSEMENT 05820141105VER618  06 11 14                       1 660,000
+  82 05 11 14 CHQ 6937379 FAV KHEMIRI AZIZ 04 11 14       1 170,000
+  60 05 11 14 CHEQUE NO 6937380            04 11 14         200,000
+  59 10 11 14 TVA/CION RET DAB             07 11 14             244
+  59 10 11 14 CION/RET DAB                 07 11 14           1,356
+  59 10 11 14 DAB CACS AUTRE BQ            07 11 14         200,000
+  59 24 11 14 ACHAT DU                     21 11 14          26,130
+  59 24 11 14 ACHAT DU                     21 11 14          21,000
+  59 24 11 14 DAB CACS AB                  21 11 14         100,000
+  59 24 11 14 ACHAT                        21 11 14           5,000
+  53 25 11 14 CION  AMENNET P1 11/14       24 11 14           4,000
+  53 25 11 14 TVA SUR AMENNET P1 11/14     24 11 14             720
+  58 25 11 14 DAB AB 23.11.14 OPE 122249   21 11 14         200,000
+  58 25 11 14 DAB AB 23.11.14 OPE 994178   21 11 14         100,000
+  71 25 11 14 VIR O/ST MICRO ELECTRONICS S 26 11 14                       1 613,830
+  71 25 11 14 CION/VIRT RECU               26 11 14           1,416
+  32 26 11 14 INT/ CREDIT LONG TERME HABIT 27 11 14         497,140
+  59 26 11 14 ACHAT DU                     25 11 14           4,755
+  80 27 11 14 REGLEMENT  EFFET  AU : 27112 27 11 14         288,730
+  80 27 11 14 CION/REGLEMENT EFFET         27 11 14           2,950
+  59 27 11 14 DAB CACS AB                  26 11 14          50,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 878,441       4 013,083
+
+              FOLIO NO :   1   SOLDE AU  30.11.2014                       1 134,642
+
+---
+
+---
+
