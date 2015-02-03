@@ -1,0 +1,62 @@
+  AMEN BANK                                                              Edite le :02/02/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|768644    |         40,000|ATM BTL PETITE ARIANA ARIANA       TN TN     |12/01/2015 17:25:20|
+|991964    |         30,000|ATM EL MANAR CAMPUS    TUNIS          TN     |04/01/2015 18:36:36|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :02/02/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|638785    |         54,720|SNMVT EL MENZAH       TUNIS           TN     |18/01/2015 14:38:10|
+|301141    |         32,880|MONOPRIX EL MANAR     MANAR (EL)   000TN     |17/01/2015 19:08:53|
+|055980    |         30,000|ATM EL MANAR CAMPUS    TUNIS          TN     |17/01/2015 17:56:44|
+|603313    |          8,300|SONEDE                EL MANAR     TUNTN     |15/01/2015 08:40:03|
+|422813    |        166,100|STEG                  TUNIS        TUNTN     |15/01/2015 08:21:13|
+|111230    |          9,874|CARREFOUR             PHENICIA  MAN   TN     |13/01/2015 18:37:20|
+|836321    |         82,680|GEANT TUNIS CITY      ARIANA       000TN     |13/01/2015 17:46:40|
+|337081    |         50,520|MPX MENZAH 6          MENZAH 6        TN     |11/01/2015 11:40:29|
+|018592    |         60,000|STATION TOTAL         BIZERTE         TN     |10/01/2015 23:27:09|
+|967586    |         17,530|CARREFOUR             PHENICIA  MAN   TN     |09/01/2015 20:10:47|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
