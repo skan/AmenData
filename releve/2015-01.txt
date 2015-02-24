@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 12 14 ANCIEN SOLDE                                                  576,329
+  12 05 01 15 INTERET AU  31/12/14         01 01 15           4,303
+  53 05 01 15 RECH TN USSD 05012015 058150 02 01 15           5,000
+  58 06 01 15 DAB AB 04.01.15 OPE 991964   02 01 15          30,000
+  59 12 01 15 ACHAT DU                     09 01 15          60,000
+  59 12 01 15 ACHAT DU                     09 01 15          17,530
+  59 12 01 15 ACHAT DU                     09 01 15          50,520
+  59 15 01 15 ACHAT DU                     13 01 15           8,300
+  59 15 01 15 ACHAT DU                     13 01 15          82,680
+  59 15 01 15 ACHAT DU                     13 01 15         166,100
+  59 15 01 15 ACHAT DU                     13 01 15           9,874
+  58 16 01 15 TVA DAB 12.01.15             09 01 15             171
+  58 16 01 15 CION DAB 12.01.15            09 01 15             949
+  58 16 01 15 DAB BTL DU 12.01.15          09 01 15          40,000
+  71 16 01 15 VIR O/AON  TUNISIE           19 01 15                          21,870
+  71 16 01 15 CION/VIRT RECU               19 01 15           1,416
+  32 19 01 15 INT/ CREDIT FINANCEMENT COMP 20 01 15         532,973
+  32 19 01 15 INT/ CREDIT FINANCEMENT COMP 20 01 15         458,822
+  32 19 01 15 INT/ CREDIT FINANCEMENT COMP 20 01 15         223,848
+  32 19 01 15 INT/ CREDIT FINANCEMENT COMP 20 01 15         535,767
+  32 19 01 15 INT/ CREDIT FINANCEMENT COMP 20 01 15         532,973
+  59 19 01 15 DAB CACS AB                  16 01 15          30,000
+  59 19 01 15 ACHAT DU                     16 01 15          54,720
+  59 19 01 15 ACHAT DU                     16 01 15          32,880
+  80 23 01 15 CION DOMICIL. BAO IMP AU 200 22 01 15           2,500
+  80 23 01 15 TVA / CION DOMICILIATION EFF 22 01 15             450
+  32 26 01 15 INT/ CREDIT LONG TERME HABIT 27 01 15         490,558
+  53 27 01 15 TVA SUR AMENNET P1 01/15     26 01 15             720
+  53 27 01 15 CION  AMENNET P1 01/15       26 01 15           4,000
+  71 27 01 15 VIR O/ST MICRO ELECTRONICS S 28 01 15                       1 648,580
+  71 27 01 15 CION/VIRT RECU               28 01 15           1,416
+  80 30 01 15 INTERET DE RETARD            29 01 15             252
+  80 30 01 15 INTERET DE RETARD            29 01 15           9,688
+  80 30 01 15 TVA / CION DOMICILIATION EFF 29 01 15             450
+  80 30 01 15 CION DOMICIL. BAO IMP AU 270 29 01 15           2,500
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      3 391,360       2 246,779
+
+              FOLIO NO :   1   SOLDE AU  31.01.2015       1 144,581
+
+---
+
+---
+
