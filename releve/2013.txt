@@ -1,0 +1,871 @@
+::::::::::::::
+2013-03.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     28 02 13 ANCIEN SOLDE                                                  134,336
+  61 06 03 13 CION ENC/ 0000001 CHQ 9376   06 03 13             700
+  61 06 03 13 TVA SUR CION ENCAISSEMENT    06 03 13             126
+  61 07 03 13 ENC 0001 CHQ 06.03           08 03 13                         100,000
+  10 19 03 13 TVA /CION  REDACTION ACTE JU 18 03 13          27,000
+  10 19 03 13 CION  REDACTION ACTE JURIDIQ 18 03 13         150,000
+  53 28 03 13 RECH TN USSD 28.03.13 233025 27 03 13           5,000
+  71 28 03 13 VIR O/ ST MICRO ELECTRONICS  29 03 13                       1 506,040
+  71 28 03 13 CION / VIRT RECU             29 03 13           1,180
+  12 29 03 13 FRAIS TENUE COMPTE AU 31/03/ 01 04 13          11,800
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......        195,806       1 740,376
+
+              FOLIO NO :   1   SOLDE AU  31.03.2013                       1 544,570
+
+---
+
+---
+::::::::::::::
+2013-04.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 03 13 ANCIEN SOLDE                                                1 544,570
+  53 01 04 13 RECH TN USSD 30.03.13 233025 29 03 13           5,000
+  53 01 04 13 RECH TN USSD 31.03.13 233025 29 03 13           5,000
+  12 05 04 13 INTERET AU  31/03/13         01 04 13          10,411
+  53 11 04 13 RECH TN USSD 11.04.13 233025 10 04 13           5,000
+  58 17 04 13 CION SUR CARTE TTC           17 04 13          15,000
+  53 18 04 13 RECH TN USSD 18.04.13 233025 17 04 13           5,000
+  58 23 04 13 CION SUR CARTE TTC           23 04 13          80,000
+  53 26 04 13 CION  AMENNET P1 04/13       25 04 13           3,000
+  53 26 04 13 TVA SUR AMENNET P1 04/13     25 04 13             540
+  53 29 04 13 RECH TN USSD 29.04.13 233025 26 04 13           5,000
+  82 29 04 13 CHQ 2223377 FAV STE BLUE MOT 26 04 13         192,000
+  71 29 04 13 VIR O/ ST MICRO ELECTRONICS  30 04 13                       5 672,900
+  71 29 04 13 CION / VIRT RECU             30 04 13           1,180
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......        327,131       7 217,470
+
+              FOLIO NO :   1   SOLDE AU  30.04.2013                       6 890,339
+
+---
+
+---
+::::::::::::::
+2013-05.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 04 13 ANCIEN SOLDE                                                6 890,339
+  53 02 05 13 RECH TN USSD 01.05.13 233025 30 04 13           5,000
+  82 06 05 13 CHQ 2223380 FAV ABDELAZIZ OU 03 05 13       3 000,000
+  82 06 05 13 CHQ 2223378 FAV GRATI FETHI  03 05 13          70,000
+  58 07 05 13 DAB AB 06.05.13 OPE 199268   03 05 13         200,000
+  61 07 05 13 CION ENC/ 0000002 CHQ 0615   07 05 13           1,400
+  61 07 05 13 TVA SUR CION ENCAISSEMENT    07 05 13             252
+  61 08 05 13 ENC 0002 CHQ 07.05           09 05 13                       4 690,000
+  82 09 05 13 CHQ 2223382 FAV SEGPV        08 05 13          52,000
+  82 10 05 13 CHQ 2223379 FAV BOUGDAR      09 05 13         450,000
+  82 10 05 13 CHQ 2223381 FAV BOUGDAR      09 05 13          60,000
+  58 13 05 13 DAB AB 10.05.13 OPE 434446   09 05 13          50,000
+  53 13 05 13 RECH TN USSD 12.05.13 233025 10 05 13           5,000
+  58 14 05 13 DAB AB 13.05.13 OPE 852656   10 05 13          50,000
+  58 15 05 13 OPE 248433 TPE DU 11.05.13   10 05 13          59,000
+  58 16 05 13 FACTURETTE DU 12.05.2013     10 05 13          65,000
+  58 16 05 13 TPE DU  11.05.13 OPE 528754  11 05 13          21,000
+  53 16 05 13 RECH TN USSD 15.05.13 233025 15 05 13           5,000
+  53 20 05 13 RECH TN USSD 18.05.13 233025 17 05 13           5,000
+  59 20 05 13 CION SOLDE DAB 18.05.13      17 05 13             170
+  59 20 05 13 TVA/CION SOLDE DAB 18.05.13  17 05 13              31
+  58 22 05 13 TPE DU  18.05.13 OPE 078787  18 05 13          19,500
+  53 22 05 13 RECH TN USSD 21.05.13 233025 21 05 13           5,000
+  60 22 05 13 VERSEMENT                    23 05 13                       3 230,000
+  82 23 05 13 CHQ 2223383 FAV MAITRE SIHEM 22 05 13         500,000
+  59 27 05 13 DAB CACS AB 082 25.05.13     24 05 13          70,000
+  82 27 05 13 CHQ 2223384 FAV TRESORIER GE 24 05 13       9 047,000
+  59 27 05 13 CION SOLDE DAB 25.05.13      24 05 13             170
+  59 27 05 13 TVA/CION SOLDE DAB 25.05.13  24 05 13              31
+  59 27 05 13 CION REL DAB 25.05.13        24 05 13             170
+  59 27 05 13 TVA/CION REL DAB 25.05.13    24 05 13              31
+  53 28 05 13 CION  AMENNET P1 05/13       27 05 13           3,000
+  53 28 05 13 TVA SUR AMENNET P1 05/13     27 05 13             540
+  53 29 05 13 RECH TN USSD 29.05.13 233025 28 05 13           5,000
+  71 29 05 13 VIR O/ ST MICRO ELECTRONICS  30 05 13                       1 819,000
+  71 29 05 13 CION / VIRT RECU             30 05 13           1,180
+  53 30 05 13 RECH TN USSD 30.05.13 233025 29 05 13           5,000
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......     13 755,475      16 629,339
+
+              FOLIO NO :   1   SOLDE AU  31.05.2013                       2 873,864
+
+---
+
+---
+::::::::::::::
+2013-06.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 05 13 ANCIEN SOLDE                                                2 873,864
+  59 03 06 13 ACHAT DU 02.06.13            03 06 13          39,160
+  59 03 06 13 ACHAT DU 02.06.13            03 06 13          10,000
+  59 03 06 13 DAB CACS AB 028 03.06.13     31 05 13         200,000
+  59 05 06 13 ACHAT DU 04.06.13            05 06 13           7,240
+  59 05 06 13 DAB CACS AB 020 05.06.13     04 06 13         400,000
+  59 06 06 13 ACHAT DU 05.06.13            06 06 13          56,000
+  82 06 06 13 CHQ 2223386 FAV MR MOALLA TH 05 06 13         454,200
+  82 06 06 13 CHQ 2223385 FAV ZOUARI AFEF  05 06 13         400,000
+  53 10 06 13 RECH TN USSD 09.06.13 233025 07 06 13           5,000
+  82 10 06 13 CHQ 2223388 FAV BARGAOUI     07 06 13         210,000
+  82 11 06 13 CHQ 2223387 FAV DISTRICT STE 10 06 13         131,800
+  59 12 06 13 ACHAT DU 11.06.13            12 06 13         145,000
+  59 12 06 13 DAB CACS AB 099 12.06.13     11 06 13         100,000
+  59 14 06 13 DAB CACS AUTRE BQ 020 13.06. 13 06 13         330,000
+  59 14 06 13 CION/RET DAB                 13 06 13           1,686
+  59 14 06 13 TVA/CION RET DAB             13 06 13             303
+  59 14 06 13 ACHAT DU 13.06.13            14 06 13          10,000
+  59 17 06 13 ACHAT DU 15.06.13            17 06 13          60,000
+  59 17 06 13 DAB CACS AB 082 15.06.13     14 06 13         200,000
+  59 17 06 13 ACHAT DU 15.06.13            17 06 13          52,000
+  53 21 06 13 RECH TN USSD 21.06.13 233025 20 06 13           5,000
+  53 25 06 13 CION  AMENNET P1 06/13       24 06 13           3,000
+  53 25 06 13 TVA SUR AMENNET P1 06/13     24 06 13             540
+  71 26 06 13 VIR O/ ST MICRO ELECTRONICS  27 06 13                       1 726,920
+  71 26 06 13 CION / VIRT RECU             27 06 13           1,180
+  53 27 06 13 RECH TN USSD 26.06.13 233025 26 06 13           5,000
+  12 28 06 13 FRAIS TENUE COMPTE AU 30/06/ 01 07 13          11,800
+  10 28 06 13 TVA / COMMISSION DE RECHERCH 27 06 13          76,500
+  10 28 06 13 COMMISSION DE RECHERCHE ET D 27 06 13         425,000
+  82 28 06 13 CHQ 2223391 FAV DR BOUELOUDH 27 06 13          50,000
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      3 390,409       4 600,784
+
+              FOLIO NO :   1   SOLDE AU  30.06.2013                       1 210,375
+
+---
+
+---
+::::::::::::::
+2013-07.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 06 13 ANCIEN SOLDE                                                1 210,375
+  53 01 07 13 RECH TN USSD 29.06.13 233025 28 06 13           5,000
+  59 01 07 13 DAB CACS AB 033 30.06.13     28 06 13          60,000
+  59 01 07 13 ACHAT DU 30.06.13            01 07 13          79,990
+  59 01 07 13 ACHAT DU 30.06.13            01 07 13          34,900
+  59 01 07 13 ACHAT DU 30.06.13            01 07 13         188,000
+  53 02 07 13 RECH TN USSD 01.07.13 233025 01 07 13           5,000
+  53 02 07 13 RECH TN USSD 01.07.13 233025 01 07 13           5,000
+  53 03 07 13 REGUL.RECHARGE LIG.TUNISIANA 01 07 13                           5,000
+  58 03 07 13 TPE DU  27.06.13 OPE 419531  27 06 13          50,000
+  10 04 07 13 RELIQUAT DE PRIX D'ACQUIS D' 01 07 13      85 000,000
+  59 04 07 13 ACHAT DU 03.07.13            04 07 13          37,300
+  32 05 07 13 DEBLOCAGE CREDIT  REF 407001 01 07 13                      85 000,000
+  32 05 07 13 CION CRÈATION T.C  407001821 28 06 13          10,000
+  32 05 07 13 TVA / CION CRÈATION T.C  407 28 06 13           1,800
+  59 08 07 13 ACHAT DU 06.07.13            08 07 13          77,000
+  59 08 07 13 ACHAT DU 07.07.13            08 07 13          10,500
+  59 08 07 13 ACHAT DU 07.07.13            08 07 13          55,000
+  61 09 07 13 CION ENC/ 0000002 CHQ 1831   09 07 13           1,400
+  61 09 07 13 TVA SUR CION ENCAISSEMENT    09 07 13             252
+  61 10 07 13 ENC 0002 CHQ 09.07           11 07 13                       1 500,000
+  82 11 07 13 CHQ 2223392 FAV SEGPV        10 07 13          49,000
+  59 17 07 13 ACHAT DU 17.07.13            17 07 13          10,000
+  82 17 07 13 CHQ 2223394 FAV CLINIQUE EL  16 07 13          35,830
+  82 17 07 13 CHQ 2223393 FAV JAMII  ZINA  16 07 13         820,000
+  82 18 07 13 CHQ 2223395 FAV STE ESSALAMA 17 07 13          55,000
+  82 19 07 13 CHQ 2223396 FAV STE DE QUINC 18 07 13          80,000
+  58 22 07 13 TPE DU  16.07.13 OPE 000000  16 07 13          27,670
+  59 22 07 13 ACHAT DU 20.07.13            22 07 13          15,840
+  59 22 07 13 ACHAT DU 21.07.13            22 07 13           5,000
+  59 22 07 13 ACHAT DU 21.07.13            22 07 13          36,000
+  59 23 07 13 ACHAT DU 22.07.13            23 07 13          50,000
+  59 23 07 13 DAB CACS AB 082 22.07.13     22 07 13          50,000
+  59 24 07 13 ACHAT DU 23.07.13            24 07 13          55,906
+  58 26 07 13 DAB AB 24.07.13 OPE 816191   23 07 13         100,000
+  53 29 07 13 TVA SUR AMENNET P1 07/13     24 07 13             720
+  53 29 07 13 CION  AMENNET P1 07/13       24 07 13           4,000
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......     87 016,108      87 715,375
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                         87 016,108      87 715,375
+  32 29 07 13 INT/ CREDIT LONG TERME HABIT 27 07 13         445,613
+  53 29 07 13 RECH TN USSD 26.07.13 233025 24 07 13          10,000
+  59 29 07 13 DAB CACS AB 041 28.07.13     24 07 13         100,000
+  61 29 07 13 CION ENC/ 0000002 CHQ 2102   29 07 13           1,400
+  61 29 07 13 TVA SUR CION ENCAISSEMENT    29 07 13             252
+  71 30 07 13 VIR O/ ST MICRO ELECTRONICS  31 07 13                       1 727,660
+  71 30 07 13 CION / VIRT RECU             31 07 13           1,416
+  61 30 07 13 ENC 0002 CHQ 29.07           31 07 13                      11 000,000
+  80 30 07 13  REGLEMENT  EFFET  AU : 27.0 24 07 13         327,188
+  80 30 07 13 CION/REGLEMENT EFFET         24 07 13           2,950
+  58 01 08 13 TPE DU  29.07.13 OPE 287144  29 07 13          10,890
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......     87 915,817     100 443,035
+
+              FOLIO NO :   2   SOLDE AU  31.07.2013                      12 527,218
+
+
+---
+---
+::::::::::::::
+2013-08.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 07 13 ANCIEN SOLDE                                               12 527,218
+  59 01 08 13 ACHAT DU 01.08.13            01 08 13          10,000
+  82 02 08 13 CHQ 2223398 FAV 0            01 08 13          55,000
+  82 06 08 13 CHQ 2223399 FAV MOUNIR TAKAL 05 08 13          50,000
+  58 12 08 13 OPE 966133 TPE DU 05.08.13   05 08 13          42,844
+  59 12 08 13 DAB CACS AB 082 07.08.13     07 08 13         400,000
+  59 12 08 13 ACHAT DU 07.08.13            12 08 13          24,850
+  59 12 08 13 ACHAT DU 10.08.13            12 08 13          55,000
+  82 12 08 13 CHQ 2223400 FAV STE POLYCLIN 07 08 13          58,800
+  59 14 08 13 ACHAT DU 13.08.13            14 08 13         104,500
+  59 15 08 13 ACHAT DU 14.08.13            15 08 13          42,600
+  59 15 08 13 ACHAT DU 14.08.13            15 08 13          13,700
+  59 15 08 13 ACHAT DU 15.08.13            15 08 13          10,000
+  59 16 08 13 ACHAT DU 15.08.13            16 08 13          55,000
+  59 19 08 13 ACHAT DU 16.08.13            19 08 13         295,000
+  59 19 08 13 ACHAT DU 18.08.13            19 08 13         280,000
+  82 20 08 13 CHQ 3422101 FAV SOCIETE CLIC 19 08 13         900,000
+  82 21 08 13 CHQ 3422105 FAV SASSI HELA   20 08 13       8 000,000
+  58 23 08 13 OPE 234413 TPE DU 20.08.13   20 08 13          55,000
+  59 23 08 13 ACHAT DU 22.08.13            23 08 13          75,000
+  59 23 08 13 DAB CACS AUTRE BQ 025 22.08. 22 08 13         200,000
+  59 23 08 13 CION/RET DAB                 22 08 13           1,356
+  59 23 08 13 TVA/CION RET DAB             22 08 13             244
+  59 23 08 13 ANN DAB CACS AUT.BQ     22.0 22 08 13                         200,000
+  59 23 08 13 ANN CION DAB AUTRE BQ        22 08 13                           1,356
+  59 23 08 13 ANN TVA/CION RET DAB         22 08 13                             244
+  59 23 08 13 DAB CACS AUTRE BQ 025 22.08. 22 08 13         100,000
+  59 23 08 13 CION/RET DAB                 22 08 13           1,102
+  59 23 08 13 TVA/CION RET DAB             22 08 13             198
+  59 23 08 13 ACHAT DU 23.08.13            23 08 13          40,000
+  32 26 08 13 INT/ CREDIT LONG TERME HABIT 27 08 13         509,025
+  82 26 08 13 CHQ 3422103 FAV RESTAURANT L 23 08 13          91,000
+  53 27 08 13 CION  AMENNET P1 08/13       26 08 13           4,000
+  53 27 08 13 TVA SUR AMENNET P1 08/13     26 08 13             720
+  80 27 08 13  REGLEMENT  EFFET  AU : 27.0 26 08 13         263,141
+  80 27 08 13 CION/REGLEMENT EFFET         26 08 13           2,950
+  82 28 08 13 CHQ 3422106 FAV BELKHIR KAME 27 08 13          55,000
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......     11 796,030      12 728,818
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                         11 796,030      12 728,818
+  59 29 08 13 ACHAT DU 28.08.13            29 08 13          10,000
+  71 29 08 13 VIR O/ ST MICRO ELECTRONICS  30 08 13                       1 718,410
+  71 29 08 13 CION / VIRT RECU             30 08 13           1,416
+  59 30 08 13 ANN ACHAT 16.08.13           30 08 13                         295,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......     11 807,446      14 742,228
+
+              FOLIO NO :   2   SOLDE AU  31.08.2013                       2 934,782
+
+
+---
+---
+::::::::::::::
+2013-09.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 08 13 ANCIEN SOLDE                                                2 934,782
+  53 02 09 13 RECH TN USSD 30.08.13 233025 30 08 13           5,000
+  59 02 09 13 ACHAT DU 01.09.13            02 09 13          50,000
+  82 02 09 13 CHQ 3422107 FAV STE BLUE MOT 30 08 13          58,268
+  82 04 09 13 CHQ 3422108 FAV AMMAR        03 09 13          40,000
+  59 05 09 13 ACHAT DU 05.09.13            05 09 13          10,000
+  59 06 09 13 DAB CACS AB 116 06.09.13     05 09 13          50,000
+  82 06 09 13 CHQ 3422110 FAV TUNISIE VALE 05 09 13       2 000,000
+  59 09 09 13 ACHAT DU 07.09.13            09 09 13          42,640
+  59 09 09 13 ACHAT DU 07.09.13            09 09 13          51,000
+  82 09 09 13 CHQ 3422112 FAV SOCIETE MEDI 06 09 13          62,000
+  58 12 09 13 TPE DU  07.09.13 OPE 271148  07 09 13          36,000
+  59 16 09 13 ACHAT DU 14.09.13            16 09 13          12,900
+  59 19 09 13 ACHAT DU 18.09.13            19 09 13          62,200
+  53 26 09 13 TVA SUR AMENNET P1 09/13     25 09 13             720
+  53 26 09 13 CION  AMENNET P1 09/13       25 09 13           4,000
+  32 26 09 13 INT/ CREDIT LONG TERME HABIT 27 09 13         508,615
+  82 26 09 13 CHQ 3422109 FAV KANZARI ABDE 25 09 13         100,000
+  71 27 09 13 VIR O/ ST MICRO ELECTRONICS  30 09 13                       1 527,820
+  71 27 09 13 CION / VIRT RECU             30 09 13           1,416
+  80 27 09 13  REGLEMENT  EFFET  AU : 27.0 26 09 13         264,725
+  80 27 09 13 CION/REGLEMENT EFFET         26 09 13           2,950
+  82 27 09 13 CHQ 3422113 FAV ABDELKEFI ZO 26 09 13          59,000
+  12 30 09 13 FRAIS TENUE COMPTE AU 30/09/ 01 10 13          11,800
+  58 01 10 13 DAB AB 28.09.13 OPE 686861   27 09 13         200,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      3 633,234       4 462,602
+
+              FOLIO NO :   1   SOLDE AU  30.09.2013                         829,368
+
+---
+
+---
+::::::::::::::
+2013-10.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 09 13 ANCIEN SOLDE                                                  829,368
+  59 03 10 13 ACHAT DU 02.10.13            03 10 13          21,900
+  82 03 10 13 CHQ 3422114 FAV DAHMEN ADEL  02 10 13         156,000
+  12 08 10 13 INTERET AU  30/09/13         01 10 13             969
+  82 09 10 13 CHQ 3422115 FAV ABDELKEFI ZO 08 10 13          57,000
+  71 11 10 13 VIR O/ AON  TUNISIE          14 10 13                          26,000
+  71 11 10 13 CION / VIRT RECU             14 10 13           1,416
+  59 14 10 13 ACHAT DU 13.10.13            14 10 13           5,000
+  59 14 10 13 ACHAT DU 14.10.13            14 10 13           5,000
+  82 14 10 13 CHQ 3422117 FAV MR GRATI FET 11 10 13          85,000
+  32 25 10 13 INT/ CREDIT LONG TERME HABIT 27 10 13         488,953
+  59 25 10 13 ACHAT DU 24.10.13            25 10 13          55,000
+  53 28 10 13 CION  AMENNET P1 10/13       25 10 13           4,000
+  53 28 10 13 TVA SUR AMENNET P1 10/13     25 10 13             720
+  58 29 10 13 DAB AB 26.10.13 OPE 538019   25 10 13         100,000
+  71 29 10 13 VIR O/ ST MICRO ELECTRONICS  30 10 13                       1 059,160
+  71 29 10 13 CION / VIRT RECU             30 10 13           1,416
+  80 29 10 13  REGLEMENT  EFFET  AU : 27.1 25 10 13         282,657
+  80 29 10 13 CION/REGLEMENT EFFET         25 10 13           2,950
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      1 267,981       1 914,528
+
+              FOLIO NO :   1   SOLDE AU  31.10.2013                         646,547
+
+---
+
+---
+::::::::::::::
+2013-11.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 10 13 ANCIEN SOLDE                                                  646,547
+  59 04 11 13 ACHAT DU 02.11.13            04 11 13          12,000
+  59 04 11 13 DAB CACS AB 082 03.11.13     01 11 13         200,000
+  71 08 11 13 VERSEMENT                    11 11 13                         500,000
+  59 11 11 13 ACHAT DU 10.11.13            11 11 13          39,800
+  82 11 11 13 CHQ 3422121 FAV H.R CREATIVE 08 11 13         500,000
+  82 13 11 13 CHQ 3422119 FAV MOEZ BOUSELE 12 11 13          53,000
+  10 18 11 13 CION  REDACTION ACTE JURIDIQ 15 11 13         200,000
+  10 18 11 13 TVA /CION  REDACTION ACTE JU 15 11 13          36,000
+  82 18 11 13 CHQ 3422122 FAV SOCIETE ALME 15 11 13          57,000
+  58 20 11 13 OPE 148449 TPE DU 16.11.13   16 11 13          37,000
+  82 20 11 13 CHQ 3422123 FAV TRESORIER GE 19 11 13         120,000
+  61 20 11 13 CION ENC/ 0000001 CHQ 4001   20 11 13             700
+  61 20 11 13 TVA SUR CION ENCAISSEMENT    20 11 13             126
+  65 20 11 13 CION AUT PROV DECOUVERT      19 11 13           2,000
+  65 20 11 13 TVA/CION AUT PROV DECOUVERT  19 11 13             360
+  10 21 11 13 COMMISSION DE RECHERCHE ET D 20 11 13          48,000
+  10 21 11 13 TVA / COMMISSION DE RECHERCH 20 11 13           8,640
+  58 21 11 13 TPE DU  12.11.13 OPE 834619  12 11 13           5,000
+  82 21 11 13 CHQ 3422124 FAV MAITRE SIHEM 20 11 13         336,000
+  61 21 11 13 ENC 0001 CHQ 20.11           22 11 13                         160,000
+  65 21 11 13 CION AUT PROV DECOUVERT      20 11 13           8,000
+  65 21 11 13 TVA/CION AUT PROV DECOUVERT  20 11 13           1,440
+  53 25 11 13 TVA SUR AMENNET P1 11/13     22 11 13             720
+  53 25 11 13 CION  AMENNET P1 11/13       22 11 13           4,000
+  58 25 11 13 DAB AB 22.11.13 OPE 138362   21 11 13          50,000
+  60 25 11 13 VERSEMENT                    26 11 13                         400,000
+  32 26 11 13 INT/ CREDIT LONG TERME HABIT 27 11 13         499,563
+  12 26 11 13 RIST CIONS                   01 10 13                          59,000
+  60 26 11 13 VERSEMENT                    27 11 13                         330,000
+  82 27 11 13 CHQ 3577376 FAV DISTRICT STE 26 11 13         169,800
+  65 27 11 13 CION AUT PROV DECOUVERT      26 11 13           8,000
+  65 27 11 13 TVA/CION AUT PROV DECOUVERT  26 11 13           1,440
+  71 28 11 13 VIR O/ ST MICRO ELECTRONICS  29 11 13                       1 755,350
+  71 28 11 13 CION / VIRT RECU             29 11 13           1,416
+  80 28 11 13  REGLEMENT  EFFET  AU : 27.1 26 11 13         268,020
+  80 28 11 13 CION/REGLEMENT EFFET         26 11 13           2,950
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 670,975       3 850,897
+
+              FOLIO NO :   1   SOLDE AU  30.11.2013                       1 179,922
+
+---
+
+---
+::::::::::::::
+2013-12.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 11 13 ANCIEN SOLDE                                                1 179,922
+  32 02 12 13 DEBLOCAGE CREDIT  REF 358603 20 11 13                       6 400,000
+  32 02 12 13 CION CRÈATION T.C  358603251 19 11 13          10,000
+  32 02 12 13 TVA / CION CRÈATION T.C  358 19 11 13           1,800
+  59 02 12 13 ACHAT DU 30.11.13            02 12 13         392,600
+  53 02 12 13 RECH TN USSD 01.12.13 233025 29 11 13           5,000
+  59 03 12 13 ACHAT DU 02.12.13            03 12 13          59,000
+  71 03 12 13 VIR FAV/ 0780700811011011677 02 12 13       6 400,000
+  71 03 12 13 CION/VIRT ORDONNE            02 12 13           2,360
+  59 04 12 13 DAB CACS AB 075 03.12.13     03 12 13          30,000
+  82 04 12 13 CHQ 3422125 FAV SEGPV        03 12 13          53,000
+  82 09 12 13 CHQ 3577377 FAV MR GRATI FET 06 12 13          80,000
+  82 13 12 13 CHQ 3577379 FAV TRIMECH ZOUH 12 12 13          59,000
+  82 13 12 13 CHQ 3577378 FAV STE AMBRE "  12 12 13          65,000
+  58 16 12 13 FACTURETTE DU 10.12.2013     09 12 13         195,000
+  82 16 12 13 CHQ 3577380 FAV MEDITERRANEE 13 12 13         140,000
+  53 26 12 13 TVA SUR AMENNET P1 12/13     25 12 13             720
+  53 26 12 13 CION  AMENNET P1 12/13       25 12 13           4,000
+  32 26 12 13 INT/ CREDIT LONG TERME HABIT 27 12 13         487,006
+  71 27 12 13 CION/VIRT RECU               30 12 13           1,416
+  71 27 12 13 VIR O/ST MICRO ELECTRONICS S 30 12 13                       1 766,400
+  80 27 12 13 CION/REGLEMENT EFFET         26 12 13           2,950
+  80 27 12 13 REGLEMENT  EFFET  AU : 27122 26 12 13         285,864
+  59 30 12 13 ACHAT DU                     30 12 13          46,240
+  59 30 12 13 ACHAT DU                     30 12 13          45,500
+  12 31 12 13 FRAIS TENUE COMPTE AU 31/12/ 01 01 14          11,800
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      8 378,256       9 346,322
+
+              FOLIO NO :   1   SOLDE AU  31.12.2013                         968,066
+
+---
+
+---
+

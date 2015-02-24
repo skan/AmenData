@@ -1,0 +1,1157 @@
+::::::::::::::
+2014-01.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 12 13 ANCIEN SOLDE                                                  968,066
+  59 03 01 14 ACHAT DU                     03 01 14          20,000
+  59 03 01 14 ACHAT DU                     03 01 14           5,500
+  59 03 01 14 ACHAT DU                     03 01 14          15,000
+  12 07 01 14 INTERET AU  31/12/13         01 01 14           1,176
+  58 09 01 14 TPE DU  04.01.14 OPE 200011  04 01 14         105,000
+  32 17 01 14 INT/ CREDIT FINANCEMENT COMP 20 01 14         647,306
+  32 17 01 14 INT/ CREDIT FINANCEMENT COMP 20 01 14         512,965
+  32 17 01 14 INT/ CREDIT FINANCEMENT COMP 20 01 14         215,447
+  32 17 01 14 INT/ CREDIT FINANCEMENT COMP 20 01 14         512,965
+  61 17 01 14 CION ENC/ 1 CHQ 6205         17 01 14             700
+  61 17 01 14 TVA SUR CION ENCAISSEMENT    17 01 14             126
+  60 17 01 14 VERSEMENT 05820140117VER679  20 01 14                       2 090,000
+  59 17 01 14 DAB CACS AB                  16 01 14         100,000
+  61 20 01 14 ENC 1 CHQ                    21 01 14                          40,000
+  59 20 01 14 ACHAT DU                     20 01 14         460,000
+  32 24 01 14 INT/ CREDIT LONG TERME HABIT 27 01 14         501,539
+  59 24 01 14 DAB CACS AB                  23 01 14         150,000
+  71 27 01 14 CION/VIRT RECU               28 01 14           1,416
+  80 27 01 14 REGLEMENT  EFFET  AU : 27012 24 01 14         271,354
+  71 27 01 14 VIR O/ST MICRO ELECTRONICS S 28 01 14                       1 392,530
+  80 27 01 14 CION/REGLEMENT EFFET         24 01 14           2,950
+  53 28 01 14 CION  AMENNET P1 01/14       27 01 14           4,000
+  53 28 01 14 TVA SUR AMENNET P1 01/14     27 01 14             720
+  59 30 01 14 ACHAT DU                     30 01 14          57,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      3 585,164       4 490,596
+
+              FOLIO NO :   1   SOLDE AU  31.01.2014                         905,432
+
+---
+
+---
+::::::::::::::
+2014-02.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 01 14 ANCIEN SOLDE                                                  905,432
+  59 03 02 14 DAB CACS AB                  31 01 14         100,000
+  59 04 02 14 ACHAT DU                     04 02 14           5,000
+  59 06 02 14 ACHAT                        05 02 14         270,000
+  58 19 02 14 TPE DU  15.02.14 OPE 988078  15 02 14           5,961
+  53 24 02 14 RECH TN USSD 24022014 058140 21 02 14           6,000
+  59 24 02 14 ACHAT DU                     24 02 14          30,000
+  53 25 02 14 CION  AMENNET P1 02/14       24 02 14           4,000
+  53 25 02 14 TVA SUR AMENNET P1 02/14     24 02 14             720
+  82 25 02 14 CHQ 3577383 FAV MARMECH TARE 24 02 14          55,000
+  32 26 02 14 INT/ CREDIT LONG TERME HABIT 27 02 14         497,945
+  71 27 02 14 CION/VIRT RECU               28 02 14           1,416
+  80 27 02 14 REGLEMENT  EFFET  AU : 27022 26 02 14         272,987
+  80 27 02 14 CION/REGLEMENT EFFET         26 02 14           2,950
+  71 27 02 14 VIR O/ST MICRO ELECTRONICS S 28 02 14                       1 392,530
+  82 28 02 14 CHQ 3577382 FAV ULYSSE HYPER 27 02 14         269,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      1 520,979       2 297,962
+
+              FOLIO NO :   1   SOLDE AU  28.02.2014                         776,983
+
+---
+
+---
+::::::::::::::
+2014-03.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     28 02 14 ANCIEN SOLDE                                                  776,983
+  59 03 03 14 ACHAT DU                     03 03 14           8,500
+  59 03 03 14 ACHAT DU                     03 03 14          24,300
+  59 03 03 14 ACHAT DU                     03 03 14          55,000
+  59 03 03 14 DAB CACS AB                  28 02 14         100,000
+  59 10 03 14 ACHAT DU                     10 03 14          60,000
+  59 10 03 14 ACHAT DU                     10 03 14          36,230
+  53 12 03 14 RECH TN USSD 12032014 058140 11 03 14          10,000
+  59 14 03 14 ACHAT DU                     14 03 14          35,700
+  82 14 03 14 CHQ 3577384 FAV HATEM TAKALI 13 03 14          60,000
+  59 17 03 14 ACHAT DU                     17 03 14          44,500
+  59 17 03 14 DAB CACS AB                  14 03 14         100,000
+  53 17 03 14 RECH TN USSD 17032014 058140 14 03 14           5,000
+  59 24 03 14 ACHAT DU                     24 03 14          90,000
+  59 24 03 14 ACHAT DU                     24 03 14          43,000
+  53 26 03 14 CION  AMENNET P1 03/14       25 03 14           4,000
+  53 26 03 14 TVA SUR AMENNET P1 03/14     25 03 14             720
+  32 26 03 14 INT/ CREDIT LONG TERME HABIT 27 03 14         446,167
+  71 27 03 14 CION/VIRT RECU               28 03 14           1,416
+  71 27 03 14 VIR O/ST MICRO ELECTRONICS S 28 03 14                       1 392,530
+  80 27 03 14 CION/REGLEMENT EFFET         26 03 14           2,950
+  80 27 03 14 REGLEMENT  EFFET  AU : 27032 26 03 14         322,840
+  59 28 03 14 ACHAT DU                     28 03 14          35,000
+  12 31 03 14 FRAIS TENUE COMPTE AU 31/03/ 01 04 14          11,800
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      1 497,123       2 169,513
+
+              FOLIO NO :   1   SOLDE AU  31.03.2014                         672,390
+
+---
+
+---
+::::::::::::::
+2014-04.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 03 14 ANCIEN SOLDE                                                  672,390
+  59 02 04 14 ACHAT DU                     02 04 14          18,400
+  59 02 04 14 ACHAT DU                     02 04 14          20,000
+  12 04 04 14 INTERET AU  31/03/14         01 04 14             686
+  82 08 04 14 CHQ 3577387 FAV DALENDA GATT 07 04 14          55,000
+  59 15 04 14 ACHAT DU                     14 04 14          15,000
+  53 24 04 14 CION  AMENNET P1 04/14       23 04 14           4,000
+  53 24 04 14 TVA SUR AMENNET P1 04/14     23 04 14             720
+  32 25 04 14 INT/ CREDIT LONG TERME HABIT 27 04 14         494,441
+  71 25 04 14 VIR O/ST MICRO ELECTRONICS S 28 04 14                       4 288,490
+  71 25 04 14 CION/VIRT RECU               28 04 14           1,416
+  58 28 04 14 TVA DAB 22.04.14             21 04 14             162
+  58 28 04 14 CION DAB 22.04.14            21 04 14             898
+  58 28 04 14 DAB BNA DU 22.04.14          21 04 14          20,000
+  59 28 04 14 CION/RET DAB                 25 04 14             898
+  59 28 04 14 DAB CACS AUTRE BQ            25 04 14          20,000
+  82 28 04 14 CHQ 3577389 FAV TUNISIE VALE 25 04 14       2 850,000
+  82 28 04 14 CHQ 3577388 FAV HATEM TAKALI 25 04 14          51,000
+  59 28 04 14 TVA/CION RET DAB             25 04 14             162
+  80 28 04 14 CION/REGLEMENT EFFET         25 04 14           2,950
+  80 28 04 14 REGLEMENT  EFFET  AU : 27042 25 04 14         276,574
+  58 29 04 14 CION.CARTE 04/14             29 04 14          80,000
+  58 29 04 14 CION.CARTE 04/14             29 04 14          20,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      3 932,307       4 960,880
+
+              FOLIO NO :   1   SOLDE AU  30.04.2014                       1 028,573
+
+---
+
+---
+::::::::::::::
+2014-05.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 04 14 ANCIEN SOLDE                                                1 028,573
+  59 02 05 14 DAB CACS AB                  30 04 14         100,000
+  59 02 05 14 ACHAT DU                     30 04 14         138,000
+  61 05 05 14 CION ENC/ 1 CHQ 7760         05 05 14             700
+  61 05 05 14 TVA SUR CION ENCAISSEMENT    05 05 14             126
+  59 05 05 14 DAB CACS AB                  02 05 14         400,000
+  61 06 05 14 ENC 1 CHQ                    07 05 14                       2 790,000
+  82 07 05 14 CHQ 3577390 FAV ZOUHAIER ABD 06 05 14          53,000
+  59 09 05 14 ACHAT DU                     08 05 14         394,100
+  53 09 05 14 RECH TN USSD 09052014 058140 08 05 14           5,000
+  59 09 05 14 ACHAT DU                     08 05 14          20,000
+  59 12 05 14 ACHAT                        09 05 14          75,400
+  82 15 05 14 CHQ 3577391 FAV HATEM TAKALI 14 05 14          47,000
+  59 19 05 14 DAB CACS AUTRE BQ            16 05 14          60,000
+  82 19 05 14 CHQ 3577392 FAV ABDELKEFI ZO 16 05 14          43,000
+  59 19 05 14 CION/RET DAB                 16 05 14           1,000
+  59 19 05 14 TVA/CION RET DAB             16 05 14             180
+  58 20 05 14 TPE DU  13.05.14 OPE 052153  13 05 14         175,000
+  82 21 05 14 CHQ 3577385 FAV S T E R      20 05 14          39,000
+  82 22 05 14 CHQ 3577393 FAV MR SAKKA HAS 21 05 14          59,000
+  59 23 05 14 ACHAT DU                     22 05 14          30,000
+  53 26 05 14 CION  AMENNET P1 05/14       23 05 14           4,000
+  53 26 05 14 TVA SUR AMENNET P1 05/14     23 05 14             720
+  32 26 05 14 INT/ CREDIT LONG TERME HABIT 27 05 14         477,240
+  71 27 05 14 VIR O/ST MICRO ELECTRONICS S 28 05 14                       1 370,370
+  80 27 05 14 REGLEMENT  EFFET  AU : 27052 27 05 14         294,192
+  71 27 05 14 CION/VIRT RECU               28 05 14           1,416
+  80 27 05 14 CION/REGLEMENT EFFET         27 05 14           2,950
+  59 29 05 14 ACHAT DU                     28 05 14          58,000
+  59 30 05 14 ACHAT DU                     29 05 14          40,397
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 519,421       5 188,943
+
+              FOLIO NO :   1   SOLDE AU  31.05.2014                       2 669,522
+
+---
+
+---
+::::::::::::::
+2014-06.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 05 14 ANCIEN SOLDE                                                2 669,522
+  59 02 06 14 ACHAT DU                     30 05 14          15,000
+  59 04 06 14 ACHAT DU                     03 06 14          52,488
+  60 06 06 14 VERSEMENT 05820140606VER413  09 06 14                       2 000,000
+  61 06 06 14 TVA SUR CION ENCAISSEMENT    06 06 14             126
+  61 06 06 14 CION ENC/ 1 CHQ 4169         06 06 14             700
+  82 09 06 14 CHQ 4319127 FAV SOCIETE LA V 06 06 14       3 115,990
+  61 09 06 14 ENC 1 CHQ                    10 06 14                      10 000,000
+  82 09 06 14 CHQ 4319126 FAV MOALLA THAME 06 06 14         327,000
+  82 10 06 14 CHQ 4319130 FAV SOCIETE LA F 09 06 14       1 740,000
+  82 10 06 14 CHQ 4319128 FAV HATEM TAKALI 09 06 14          58,000
+  82 10 06 14 CHQ 4319131 FAV SICERAM PLUS 09 06 14         830,000
+  21 16 06 14 TVA/COMMISION DE REALISATION 16 06 14           4,075
+  21 16 06 14 TVA/RECUPERATION FRAIS PORT  16 06 14             900
+  21 16 06 14 TVA/COMMISSION DE TENUE DE D 16 06 14           2,700
+  21 16 06 14 TVA/RECUPERATION FRAIS SUR M 16 06 14           2,700
+  21 16 06 14 RECUPERATION FRAIS PORT DE L 16 06 14           5,000
+  21 16 06 14 COMMISSION DE TENUE DE DOSSI 16 06 14          15,000
+  21 16 06 14 RECUPERATION FRAIS SUR MESSA 16 06 14          15,000
+  21 16 06 14 COMMISION DE REALISATION TRR 16 06 14          22,641
+  21 16 06 14 TRANSFERT RECU DE L'ETRANGER 16 06 14                      10 985,000
+  82 16 06 14 CHQ 4319132 FAV SANI BAINS D 13 06 14       3 517,000
+  82 16 06 14 CHQ 3577381 FAV MAXULA BOURS 13 06 14       3 000,000
+  82 19 06 14 CHQ 4319133 FAV HATEM TAKALI 18 06 14          59,000
+  59 20 06 14 ACHAT                        19 06 14          35,400
+  59 23 06 14 ACHAT                        20 06 14          43,330
+  59 23 06 14 ACHAT                        20 06 14         132,160
+  82 23 06 14 CHQ 4319134 FAV MAXULA BOURS 20 06 14       2 000,000
+  53 25 06 14 TVA SUR AMENNET P1 06/14     24 06 14             720
+  53 25 06 14 CION  AMENNET P1 06/14       24 06 14           4,000
+  71 25 06 14 VIR O/ST MICRO ELECTRONICS S 26 06 14                       1 370,380
+  71 25 06 14 CION/VIRT RECU               26 06 14           1,416
+  32 26 06 14 INT/ CREDIT LONG TERME HABIT 27 06 14         490,154
+  80 27 06 14 REGLEMENT  EFFET  AU : 27062 27 06 14         280,009
+  80 27 06 14 CION/REGLEMENT EFFET         27 06 14           2,950
+  12 30 06 14 FRAIS TENUE COMPTE AU 30/06/ 01 07 14          11,800
+  59 30 06 14 ACHAT DU                     27 06 14          95,000
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......     15 880,259      27 024,902
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                         15 880,259      27 024,902
+  59 30 06 14 CION/RET DAB                 27 06 14           1,102
+  59 30 06 14 DAB CACS AUTRE BQ            27 06 14         100,000
+  82 30 06 14 CHQ 4319136 FAV SOCIETE M.A. 27 06 14       1 371,088
+  59 30 06 14 TVA/CION RET DAB             27 06 14             198
+  59 30 06 14 DAB CACS AB                  27 06 14         300,000
+  59 30 06 14 DAB CACS AB                  27 06 14         300,000
+  59 30 06 14 ACHAT DU                     27 06 14          20,000
+  59 30 06 14 ACHAT DU                     27 06 14         147,800
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......     18 120,447      27 024,902
+
+              FOLIO NO :   2   SOLDE AU  30.06.2014                       8 904,455
+
+
+---
+---
+::::::::::::::
+2014-07.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 06 14 ANCIEN SOLDE                                                8 904,455
+  12 07 07 14 INTERET AU  30/06/14         01 07 14           4,410
+  59 07 07 14 DAB CACS AB                  04 07 14         400,000
+  59 07 07 14 DAB CACS AB                  04 07 14         500,000
+  59 07 07 14 DAB CACS AB                  04 07 14         600,000
+  82 10 07 14 CHQ 4319138 FAV STE COMAF DE 09 07 14         262,962
+  82 11 07 14 CHQ 4319137 FAV ALMERIA STAT 10 07 14          61,000
+  59 14 07 14 DAB CACS AB                  11 07 14         500,000
+  59 14 07 14 DAB CACS AB                  11 07 14         500,000
+  59 14 07 14 DAB CACS AB                  11 07 14         190,000
+  59 14 07 14 DAB CACS AB                  11 07 14         600,000
+  82 16 07 14 CHQ 4319139 FAV STE COMAF DE 15 07 14          76,430
+  58 17 07 14 TPE DU  12.07.14 OPE 822627  12 07 14          19,140
+  82 17 07 14 CHQ 4319141 FAV DALLALI SYRI 16 07 14         500,000
+  53 21 07 14 TVA SUR AMENNET P1 07/14     18 07 14             720
+  53 21 07 14 CION  AMENNET P1 07/14       18 07 14           4,000
+  58 21 07 14 TPE DU  16.07.14 OPE 199011  16 07 14          43,000
+  59 21 07 14 ACHAT                        18 07 14         310,000
+  59 21 07 14 DAB CACS AB                  18 07 14         400,000
+  53 21 07 14 RECH TN USSD 21072014 058140 18 07 14           5,000
+  59 21 07 14 DAB CACS AB                  18 07 14         400,000
+  59 21 07 14 DAB CACS AB                  18 07 14         400,000
+  59 22 07 14 ACHAT                        21 07 14         187,430
+  58 23 07 14 TPE DU  19.07.14 OPE 118516  19 07 14          34,000
+  58 23 07 14 TPE DU  18.07.14 OPE 916392  18 07 14          15,404
+  58 23 07 14 TPE DU  20.07.14 OPE 390910  20 07 14          12,340
+  32 24 07 14 INT/ CREDIT LONG TERME HABIT 27 07 14         477,440
+  71 24 07 14 CION/VIRT RECU               31 07 14           1,416
+  71 24 07 14 VIR O/ST MICRO ELECTRONICS S 31 07 14                       1 425,900
+  59 30 07 14 DAB CACS AB                  24 07 14         500,000
+  59 30 07 14 DAB CACS AB                  24 07 14         500,000
+  59 30 07 14 DAB CACS AB                  24 07 14          50,000
+  59 30 07 14 DAB CACS AB                  24 07 14         500,000
+  59 30 07 14 DAB CACS AB                  24 07 14         500,000
+  82 30 07 14 CHQ 4319142 FAV EL KAMEL     24 07 14          60,000
+  80 31 07 14 REGLEMENT  EFFET  AU : 27072 27 07 14         297,537
+  80 31 07 14 CION/REGLEMENT EFFET         27 07 14           2,950
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      8 915,179      10 330,355
+
+              FOLIO NO :   1   SOLDE AU  31.07.2014                       1 415,176
+
+---
+
+---
+::::::::::::::
+2014-08.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 07 14 ANCIEN SOLDE                                                1 415,176
+  59 01 08 14 ACHAT DU                     31 07 14          20,000
+  59 04 08 14 ACHAT DU                     01 08 14          48,500
+  59 04 08 14 ACHAT DU                     01 08 14          44,300
+  59 07 08 14 DAB CACS AB                  06 08 14         100,000
+  53 08 08 14 RECH TN USSD 08082014 058140 07 08 14           5,000
+  82 12 08 14 CHQ 4319145 FAV STE BLUE MOT 11 08 14         109,000
+  53 12 08 14 RECH TN USSD 12082014 058140 11 08 14           5,000
+  60 15 08 14 VERSEMENT 05820140815VER264  18 08 14                       5 000,000
+  53 18 08 14 RECH TN USSD 18082014 058140 15 08 14           5,000
+  58 19 08 14 TPE DU  11.08.14 OPE 104812  11 08 14          80,000
+  82 19 08 14 CHQ 4319147 FAV HATEM TAKALI 18 08 14          60,000
+  82 19 08 14 CHQ 4319144 FAV GECER HALIT  18 08 14         170,000
+  82 19 08 14 CHQ 4319148 FAV STE SOBAQUE  18 08 14          30,560
+  82 19 08 14 CHQ 4319143 FAV SICERAM PLUS 18 08 14         323,088
+  82 19 08 14 CHQ 4319146 FAV STE D'EQUIPE 18 08 14       1 000,000
+  59 21 08 14 ACHAT DU                     20 08 14          27,200
+  82 22 08 14 CHQ 4319150 FAV LOTFI GHRAIR 21 08 14       1 350,000
+  58 25 08 14 TPE DU  18.08.14 OPE 229117  18 08 14          30,170
+  82 25 08 14 CHQ 6069401 FAV ASKRI SLAHED 22 08 14         672,000
+  32 26 08 14 INT/ CREDIT LONG TERME HABIT 27 08 14         504,310
+  65 27 08 14 COMM/AUT PASS DECOUVERT REF: 26 08 14           4,000
+  65 27 08 14 TVA/COMM/AUT PASS DECOUVERT  26 08 14             720
+  80 27 08 14 REGLEMENT  EFFET  AU : 27082 27 08 14         283,485
+  80 27 08 14 CION/REGLEMENT EFFET         27 08 14           2,950
+  53 27 08 14 RECH TN USSD 27082014 058140 26 08 14           5,000
+  82 27 08 14 CHQ 6069404 FAV IDEAL CUISIN 26 08 14       1 650,000
+  71 28 08 14 CION/VIRT RECU               29 08 14           1,416
+  82 28 08 14 CHQ 6069405 FAV STE SOBAQUE  27 08 14          53,861
+  71 28 08 14 VIR O/ST MICRO ELECTRONICS S 29 08 14                       1 426,380
+  53 29 08 14 CION  AMENNET P1 08/14       28 08 14           4,000
+  53 29 08 14 TVA SUR AMENNET P1 08/14     28 08 14             720
+  61 29 08 14 TVA SUR CION ENCAISSEMENT    29 08 14             252
+  61 29 08 14 CION ENC/ 2 CHQ 2152         29 08 14           1,400
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      6 591,932       7 841,556
+
+              FOLIO NO :   1   SOLDE AU  31.08.2014                       1 249,624
+
+---
+
+---
+::::::::::::::
+2014-09.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 08 14 ANCIEN SOLDE                                                1 249,624
+  82 01 09 14 CHQ 6069407 FAV STE SOBAQUE  29 08 14          21,000
+  61 01 09 14 ENC 2 CHQ                    02 09 14                      13 350,000
+  59 01 09 14 ACHAT DU                     29 08 14          30,000
+  71 02 09 14 VIR O/QNB                    03 09 14                       1 200,000
+  82 02 09 14 CHQ 6069410 FAV MR CHETTAOUI 01 09 14         144,000
+  71 02 09 14 CION/VIRT RECU               03 09 14           1,416
+  82 02 09 14 CHQ 6069408 FAV SOCI T  LUMI 01 09 14         218,000
+  82 03 09 14 CHQ 6069409 FAV STE FIRAS PE 02 09 14          64,000
+  82 04 09 14 CHQ 6069406 FAV SOCIETE LA V 03 09 14       3 056,970
+  82 05 09 14 CHQ 6069412 FAV ASKRI SLAHED 04 09 14         224,000
+  59 05 09 14 DAB CACS AB                  04 09 14         500,000
+  59 05 09 14 DAB CACS AB                  04 09 14         300,000
+  82 05 09 14 CHQ 6069414 FAV ASKRI SLAHED 04 09 14         111,000
+  82 05 09 14 CHQ 6069411 FAV SANI BAINS D 04 09 14         233,000
+  59 05 09 14 DAB CACS AB                  04 09 14         500,000
+  82 05 09 14 CHQ 6069413 FAV SOCIETE ESSE 04 09 14          70,000
+  82 05 09 14 CHQ 4319149 FAV SANI BAINS D 04 09 14         608,000
+  59 08 09 14 ACHAT DU                     05 09 14          62,000
+  82 09 09 14 CHQ 6069416 FAV SOCIETE ESSE 08 09 14         129,000
+  82 09 09 14 CHQ 6069419 FAV STE D'EQUIPE 08 09 14         700,000
+  82 10 09 14 CHQ 6069415 FAV ASKRI LARBI  09 09 14          37,000
+  82 10 09 14 CHQ 6069417 FAV MR KANOUN AB 09 09 14         695,000
+  71 11 09 14 VIR O/AON  TUNISIE           12 09 14                          21,882
+  60 11 09 14 CHQ.G.NO 05820140911RET39    10 09 14       3 500,000
+  71 11 09 14 CION/VIRT RECU               12 09 14           1,416
+  61 11 09 14 CION ENC/ 1 CHQ 4183         11 09 14             700
+  61 11 09 14 TVA SUR CION ENCAISSEMENT    11 09 14             126
+  82 11 09 14 CHQ 6069418 FAV STE GENERALE 10 09 14          96,400
+  61 12 09 14 ENC 1 CHQ                    15 09 14                       8 000,000
+  58 17 09 14 TPE DU  13.09.14 OPE 705833  13 09 14          21,455
+  82 17 09 14 CHQ 6069421 FAV ASKRI SLAHED 16 09 14          56,000
+  82 17 09 14 CHQ 6069420 FAV ASKRI LARBI  16 09 14         112,000
+  82 17 09 14 CHQ 6069422 FAV STE QUINCAIL 16 09 14         100,000
+  82 19 09 14 CHQ 6069424 FAV SOCIETE ALME 18 09 14          60,000
+  53 22 09 14 RECH TN USSD 22092014 058140 19 09 14           5,000
+  82 23 09 14 CHQ 6672576 FAV MHIRSI DISTR 22 09 14          35,000
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......     11 692,483      23 821,506
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                         11 692,483      23 821,506
+  59 24 09 14 ACHAT                        23 09 14          29,540
+  59 24 09 14 ACHAT DU                     23 09 14           6,400
+  53 25 09 14 TVA SUR AMENNET P1 09/14     24 09 14             720
+  53 25 09 14 CION  AMENNET P1 09/14       24 09 14           4,000
+  71 25 09 14 VIR O/ST MICRO ELECTRONICS S 26 09 14                       1 622,800
+  71 25 09 14 CION/VIRT RECU               26 09 14           1,416
+  32 26 09 14 INT/ CREDIT LONG TERME HABIT 27 09 14         501,921
+  82 26 09 14 CHQ 6672579 FAV IDEAL CUISIN 25 09 14       1 500,000
+  59 26 09 14 ACHAT DU                     25 09 14          30,000
+  82 26 09 14 CHQ 6672578 FAV IDEAL CUISIN 25 09 14       1 050,000
+  80 29 09 14 REGLEMENT  EFFET  AU : 27092 27 09 14         285,192
+  59 29 09 14 ACHAT DU                     26 09 14          59,000
+  80 29 09 14 CION/REGLEMENT EFFET         27 09 14           2,950
+  60 29 09 14 CHEQUE NO 6672580            26 09 14       3 100,000
+  12 30 09 14 FRAIS TENUE COMPTE AU 30/09/ 01 10 14          11,800
+  59 30 09 14 ACHAT DU                     29 09 14          10,400
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......     18 285,822      25 444,306
+
+              FOLIO NO :   2   SOLDE AU  30.09.2014                       7 158,484
+
+
+---
+---
+::::::::::::::
+2014-10.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 09 14 ANCIEN SOLDE                                                7 158,484
+  59 01 10 14 ACHAT DU                     30 09 14         199,620
+  58 02 10 14 TPE DU  26.09.14 OPE 290716  26 09 14          89,000
+  59 02 10 14 DAB CACS AB                  01 10 14         400,000
+  59 02 10 14 DAB CACS AB                  01 10 14         300,000
+  59 02 10 14 DAB CACS AB                  01 10 14         400,000
+  82 02 10 14 CHQ 6672582 FAV STE DE L ECO 01 10 14       2 613,500
+  82 02 10 14 CHQ 6069425 FAV ABBES EPOUSE 01 10 14         103,000
+  60 06 10 14 VERSEMENT 05820141006VER822  07 10 14                       3 000,000
+  82 07 10 14 CHQ 6069423 FAV ULYSSE HYPER 06 10 14       2 837,000
+  61 07 10 14 TVA SUR CION ENCAISSEMENT    07 10 14             126
+  61 07 10 14 CION ENC/ 1 CHQ 8324         07 10 14             700
+  61 08 10 14 ENC 1 CHQ                    09 10 14                         400,000
+  59 08 10 14 ACHAT DU                     07 10 14          37,000
+  82 09 10 14 CHQ 6672586 FAV HATEM TAKALI 08 10 14          62,000
+  82 09 10 14 CHQ 6672583 FAV IDEAL CUISIN 08 10 14       2 700,000
+  82 09 10 14 CHQ 6672584 FAV FARAH MONDHE 08 10 14          30,000
+  82 10 10 14 CHQ 6672585 FAV BEN YOUSSEF  09 10 14          50,000
+  12 13 10 14 INTERET AU  30/09/14         01 10 14             113
+  59 13 10 14 ACHAT DU                     10 10 14          30,000
+  53 13 10 14 RECH TN USSD 13102014 058141 10 10 14           5,000
+  82 14 10 14 CHQ 6672588 FAV SANI BAINS D 13 10 14         105,000
+  82 14 10 14 CHQ 6672589 FAV STE PROMOUV  13 10 14         465,880
+  82 14 10 14 CHQ 6672587 FAV EL AYEDI     13 10 14         520,000
+  60 14 10 14 VERSEMENT 05820141014VER1705 16 10 14                       1 300,000
+  58 17 10 14 TPE DU  12.10.14 OPE 107444  12 10 14           7,240
+  82 17 10 14 CHQ 6672591 FAV ZOUHAIR LIME 16 10 14         750,000
+  65 20 10 14 COMM/AUT PASS DECOUVERT REF: 17 10 14           8,000
+  65 20 10 14 TVA/COMM/AUT PASS DECOUVERT  17 10 14           1,440
+  53 20 10 14 RECH TN USSD 20102014 058141 17 10 14           5,000
+  82 20 10 14 CHQ 6672590 FAV BEN ZEKRI MA 17 10 14         120,000
+  59 20 10 14 ACHAT DU                     17 10 14          53,000
+  65 21 10 14 COMM/AUT PASS DECOUVERT REF: 20 10 14          10,000
+  65 21 10 14 TVA/COMM/AUT PASS DECOUVERT  20 10 14           1,800
+  82 21 10 14 CHQ 6937378 FAV SANI BAINS D 20 10 14          55,000
+  71 21 10 14 VIR O/DR SASSI HELA          22 10 14                       2 000,000
+  71 21 10 14 CION/VIRT RECU               22 10 14           1,416
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......     11 960,835      13 858,484
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                         11 960,835      13 858,484
+  82 21 10 14 CHQ 6937377 FAV STE OGGI SAR 20 10 14         480,000
+  58 22 10 14 OPE 558120 TPE DU 18.10.14   18 10 14          89,800
+  59 22 10 14 DAB CACS AB                  21 10 14         350,000
+  60 22 10 14 CHEQUE NO 6672593            21 10 14         250,000
+  59 22 10 14 DAB CACS AB                  21 10 14         400,000
+  82 23 10 14 CHQ 6672592 FAV GHRAIRI      22 10 14       1 000,000
+  32 24 10 14 INT/ CREDIT LONG TERME HABIT 27 10 14         482,462
+  60 24 10 14 VERSEMENT 05820141024VER358  27 10 14                       1 400,000
+  60 24 10 14 CHEQUE NO 6672594            23 10 14         140,000
+  53 24 10 14 RECH TN USSD 24102014 058141 23 10 14           5,000
+  59 27 10 14 ACHAT DU                     24 10 14          74,900
+  80 27 10 14 REGLEMENT  EFFET  AU : 27102 27 10 14         302,582
+  61 27 10 14 TVA SUR CION ENCAISSEMENT    27 10 14             126
+  61 27 10 14 CION ENC/ 1 CHQ 7904         27 10 14             700
+  59 27 10 14 DAB CACS AB                  24 10 14          40,000
+  80 27 10 14 CION/REGLEMENT EFFET         27 10 14           2,950
+  61 28 10 14 ENC 1 CHQ                    29 10 14                         350,000
+  82 28 10 14 CHQ 6672597 FAV STE CARTHAGO 27 10 14         130,000
+  53 28 10 14 RECH TN USSD 28102014 058141 27 10 14           5,000
+  71 28 10 14 VIR O/ST MICRO ELECTRONICS S 29 10 14                       1 488,260
+  71 28 10 14 CION/VIRT RECU               29 10 14           1,416
+  82 29 10 14 CHQ 6672596 FAV JERIDI KHALE 28 10 14         570,000
+  53 30 10 14 TVA SUR AMENNET P1 10/14     29 10 14             720
+  53 30 10 14 CION  AMENNET P1 10/14       29 10 14           4,000
+  53 30 10 14 RECH TN USSD 30102014 058141 29 10 14           5,000
+  82 31 10 14 CHQ 6672598 FAV ALMERIA STAT 30 10 14          62,000
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......     16 357,491      17 096,744
+
+              FOLIO NO :   2   SOLDE AU  31.10.2014                         739,253
+
+
+---
+---
+::::::::::::::
+2014-11.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 10 14 ANCIEN SOLDE                                                  739,253
+  53 03 11 14 RECH TN USSD 03112014 058141 31 10 14           5,000
+  60 05 11 14 VERSEMENT 05820141105VER618  06 11 14                       1 660,000
+  82 05 11 14 CHQ 6937379 FAV KHEMIRI AZIZ 04 11 14       1 170,000
+  60 05 11 14 CHEQUE NO 6937380            04 11 14         200,000
+  59 10 11 14 TVA/CION RET DAB             07 11 14             244
+  59 10 11 14 CION/RET DAB                 07 11 14           1,356
+  59 10 11 14 DAB CACS AUTRE BQ            07 11 14         200,000
+  59 24 11 14 ACHAT DU                     21 11 14          26,130
+  59 24 11 14 ACHAT DU                     21 11 14          21,000
+  59 24 11 14 DAB CACS AB                  21 11 14         100,000
+  59 24 11 14 ACHAT                        21 11 14           5,000
+  53 25 11 14 CION  AMENNET P1 11/14       24 11 14           4,000
+  53 25 11 14 TVA SUR AMENNET P1 11/14     24 11 14             720
+  58 25 11 14 DAB AB 23.11.14 OPE 122249   21 11 14         200,000
+  58 25 11 14 DAB AB 23.11.14 OPE 994178   21 11 14         100,000
+  71 25 11 14 VIR O/ST MICRO ELECTRONICS S 26 11 14                       1 613,830
+  71 25 11 14 CION/VIRT RECU               26 11 14           1,416
+  32 26 11 14 INT/ CREDIT LONG TERME HABIT 27 11 14         497,140
+  59 26 11 14 ACHAT DU                     25 11 14           4,755
+  80 27 11 14 REGLEMENT  EFFET  AU : 27112 27 11 14         288,730
+  80 27 11 14 CION/REGLEMENT EFFET         27 11 14           2,950
+  59 27 11 14 DAB CACS AB                  26 11 14          50,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 878,441       4 013,083
+
+              FOLIO NO :   1   SOLDE AU  30.11.2014                       1 134,642
+
+---
+
+---
+::::::::::::::
+2014-12.txt
+::::::::::::::
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     30 11 14 ANCIEN SOLDE                                                1 134,642
+  59 01 12 14 ACHAT DU                     28 11 14          62,100
+  59 01 12 14 ACHAT DU                     28 11 14         135,000
+  59 01 12 14 ACHAT DU                     28 11 14          22,800
+  82 01 12 14 CHQ 6937381 FAV SNMVT.MONOPR 28 11 14          21,020
+  59 01 12 14 ACHAT DU                     28 11 14          22,145
+  59 02 12 14 ACHAT DU                     01 12 14          73,162
+  59 08 12 14 ACHAT DU                     05 12 14          34,840
+  59 08 12 14 ACHAT DU                     05 12 14         106,905
+  59 08 12 14 ACHAT DU                     05 12 14          11,945
+  59 08 12 14 ACHAT DU                     05 12 14           4,130
+  59 09 12 14 DAB CACS AB                  08 12 14          50,000
+  82 12 12 14 CHQ 6937384 FAV STE FIRAS PE 11 12 14          63,000
+  59 15 12 14 ACHAT DU                     12 12 14          20,000
+  59 15 12 14 ACHAT DU                     12 12 14         103,840
+  59 19 12 14 TVA/CION RET DAB             18 12 14             175
+  59 19 12 14 DAB CACS AUTRE BQ            18 12 14          50,000
+  59 19 12 14 ACHAT DU                     18 12 14          23,540
+  59 19 12 14 CION/RET DAB                 18 12 14             975
+  59 22 12 14 DAB CACS AB                  19 12 14          50,000
+  59 22 12 14 ACHAT DU                     19 12 14          45,000
+  82 22 12 14 CHQ 6937383 FAV MR GARGOURI  19 12 14          40,000
+  59 23 12 14 ACHAT DU                     22 12 14          79,900
+  59 23 12 14 ACHAT DU                     22 12 14          14,756
+  53 25 12 14 CION  AMENNET P1 12/14       24 12 14           4,000
+  53 25 12 14 TVA SUR AMENNET P1 12/14     24 12 14             720
+  32 26 12 14 INT/ CREDIT LONG TERME HABIT 27 12 14         479,462
+  59 26 12 14 ACHAT DU                     25 12 14          60,000
+  71 29 12 14 VIR O/ST MICRO ELECTRONICS S 30 12 14                       1 624,730
+  53 29 12 14 RECH TN USSD 29122014 058141 26 12 14           5,000
+  71 29 12 14 CION/VIRT RECU               30 12 14           1,416
+  80 29 12 14 REGLEMENT  EFFET  AU : 27122 27 12 14         306,027
+  80 29 12 14 CION/REGLEMENT EFFET         27 12 14           2,950
+  58 30 12 14 DAB BIAT DU 24.12.14         23 12 14         200,000
+  58 30 12 14 CION DAB 24.12.14            23 12 14           1,356
+  58 30 12 14 TVA DAB 24.12.14             23 12 14             244
+  59 30 12 14 DAB CACS AB                  29 12 14          50,000
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......      2 146,408       2 759,372
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                          2 146,408       2 759,372
+  12 31 12 14 FRAIS TENUE COMPTE AU 31/12/ 01 01 15          11,800
+  59 31 12 14 ACHAT DU                     30 12 14          19,785
+  59 31 12 14 ACHAT DU                     30 12 14           5,050
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 183,043       2 759,372
+
+              FOLIO NO :   2   SOLDE AU  31.12.2014                         576,329
+
+
+---
+---
+
