@@ -1,0 +1,57 @@
+  AMEN BANK                                                              Edite le :02/03/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|632758    |          6,900|MAGID OTHMANI         ARIANA          TN     |26/02/2015 20:40:24|
+|637246    |         10,000|OTOSURE_              TUNIS           TN     |25/02/2015 12:20:24|
+|211290    |          7,781|SNMVT MENZAH          TUNIS           TN     |24/02/2015 19:36:35|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :02/03/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|525829    |         70,000|ATM EL MANAR CAMPUS    TUNIS          TN     |01/03/2015 12:43:58|
+|227390    |        106,325|CARREFOUR MENZEH 9    TUNIS           TN     |28/02/2015 20:14:50|
+|932453    |         50,000|ABT NLLE ARIANA       ariana nor      TN     |26/02/2015 20:32:18|
+|651818    |         60,000|SOCIETE COMMERCIALE BOTUNIS           TN     |26/02/2015 20:11:35|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
