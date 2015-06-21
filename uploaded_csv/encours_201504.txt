@@ -1,0 +1,65 @@
+  AMEN BANK                                                              Edite le :30/04/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :30/04/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4451,595
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|840437    |         70,000|ATM EL MENZAH VI       TUNIS          TN     |23/04/2015 12:57:00|
+|113969    |         25,880|CARREFOUR             EL MANAR        TN     |21/04/2015 20:39:53|
+|147658    |         34,180|SNMVT  EL MENZAH      EL MENZAH       TN     |18/04/2015 12:56:05|
+|787899    |          5,980|CARREFOUR             EL MANAR        TN     |15/04/2015 19:51:18|
+|977818    |         38,200|CARREFOUR             EL MANAR        TN     |15/04/2015 19:36:14|
+|877330    |         60,000|STE FIRAS PETROLE     STE FIRAS PETROLTN     |15/04/2015 19:17:31|
+|385239    |          8,630|MONOPRIX EL MANAR     MANAR (EL)      TN     |09/04/2015 19:50:58|
+|754097    |         25,405|CARREFOUR             EL MANAR        TN     |09/04/2015 19:30:22|
+|207428    |        308,500|TUNISAIR E.COM TND    TUNIS           TN     |08/04/2015 23:44:03|
+|499476    |        150,000|ATM STAR OIL           TUNIS          TN     |07/04/2015 21:13:07|
+|778094    |        350,000|ATM EL MANAR CAMPUS    TUNIS          TN     |06/04/2015 20:17:22|
+|060915    |        350,000|ATM EL MANAR CAMPUS    TUNIS          TN     |06/04/2015 20:16:16|
+|404305    |        350,000|ATM EL MANAR CAMPUS    TUNIS          TN     |06/04/2015 20:15:29|
+|572216    |        350,000|ATM EL MANAR CAMPUS    TUNIS          TN     |06/04/2015 20:14:35|
+|696212    |         41,630|SNMVT  EL MENZAH      EL MENZAH       TN     |04/04/2015 15:33:17|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
