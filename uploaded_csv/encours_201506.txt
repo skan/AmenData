@@ -1,0 +1,77 @@
+  AMEN BANK                                                              Edite le :02/07/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :02/07/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|871527    |         30,000|ATM CARNOY             TUNIS          TN     |01/07/2015 21:57:33|
+|292025    |          6,163|CARREFOUR             EL MANAR        TN     |28/06/2015 18:20:01|
+|175648    |         14,760|MONOPRIX EL MANAR     MANAR (EL)      TN     |27/06/2015 15:35:51|
+|948195    |         41,720|CARREFOUR             MENZEH 09       TN     |27/06/2015 15:23:26|
+|780941    |          6,790|MONOPRIX EL MANAR     MANAR (EL)      TN     |27/06/2015 15:02:30|
+|349459    |        106,670|CARREFOUR             MENZEH 09       TN     |27/06/2015 13:40:52|
+|193682    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |27/06/2015 11:34:30|
+|536955    |         20,000|ATM BEST SIEGE TUNIS  88 AVENUE HEDI CTN     |26/06/2015 16:25:56|
+|729054    |          9,900|REST RAPIDE QUICK     QUICK 3         TN     |24/06/2015 19:46:18|
+|720241    |         24,240|ULYSSE HYPER DISTRIBUTTUNIS           TN     |24/06/2015 19:33:49|
+|083843    |         20,000|GAB JARDINS SOUKRAIII SOUKRA          TN     |24/06/2015 19:23:10|
+|774548    |         33,140|GEANT TUNIS CITY      ARIANA          TN     |23/06/2015 17:31:21|
+|809901    |        113,162|ULYSSE HYPER DISTRIBUTTUNIS           TN     |21/06/2015 17:49:25|
+|071893    |         16,933|CARREFOUR             EL MANAR        TN     |15/06/2015 20:19:53|
+|309543    |         12,450|PHARMACIE  M HAMED    MANAR (EL)      TN     |11/06/2015 18:44:55|
+|831940    |         25,000|GLOBAL PAYMENT GATEWAYTUNIS           TN     |10/06/2015 23:45:37|
+|653007    |         17,000|GLOBAL PAYMENT GATEWAYTUNIS           TN     |10/06/2015 23:37:47|
+|558288    |         10,000|GLOBAL PAYMENT GATEWAYTUNIS           TN     |10/06/2015 23:29:58|
+|599775    |         39,204|CARREFOUR             EL MANAR        TN     |09/06/2015 18:51:13|
+|639157    |         39,000|GLOBAL PAYMENT GATEWAYTUNIS           TN     |02/06/2015 21:18:04|
+|716991    |         52,488|MUNICIPALITE DE TUNIS MUNICIPALITE DE TN     |02/06/2015 20:54:01|
+|942071    |         50,000|ATM EL MANAR CAMPUS    TUNIS          TN     |01/06/2015 20:40:08|
+|081031    |         12,400|ULYSSE HYPER DISTRIBUTTUNIS           TN     |30/05/2015 17:00:11|
+|208112    |        115,448|ULYSSE HYPER DISTRIBUTTUNIS           TN     |30/05/2015 16:59:22|
+|109002    |        121,400|STEG                  STEG            TN     |29/05/2015 19:46:52|
+|251006    |         19,100|SONEDE                AV SLIMANE BEN STN     |29/05/2015 19:41:12|
+|126833    |          8,900|SONEDE                AV SLIMANE BEN STN     |29/05/2015 19:39:34|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------

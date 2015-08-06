@@ -1,0 +1,141 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 03 15 ANCIEN SOLDE                                                  938,147
+  71 02 04 15 VIR O/AON  TUNISIE           03 04 15                         304,540
+  71 02 04 15 CION/VIRT RECU               03 04 15           1,416
+  71 03 04 15 CION/VIRT RECU               06 04 15           1,416
+  80 03 04 15 CION / EFFET IMPAYE          03 04 15           8,260
+  80 03 04 15 REGLEMENT EFFET IMPAYE  2001 03 04 15       3 360,000
+  71 03 04 15 VIR O/HAMZA SKANDER          06 04 15                       4 215,000
+  80 03 04 15 INTERET DE RETARD SUR EFFET  03 04 15           2,889
+  59 06 04 15 ACHAT DU                     03 04 15          41,630
+  59 07 04 15 DAB CACS AB                  06 04 15         350,000
+  59 07 04 15 DAB CACS AB                  06 04 15         350,000
+  82 07 04 15 CHQ 6937387 FAV DR DERBEL IN 06 04 15          40,000
+  59 07 04 15 DAB CACS AB                  06 04 15         350,000
+  59 07 04 15 DAB CACS AB                  06 04 15         350,000
+  59 08 04 15 DAB CACS AB                  07 04 15         150,000
+  12 10 04 15 INTERET AU  31/03/15         01 04 15          13,210
+  59 10 04 15 ACHAT DU                     08 04 15           8,630
+  59 10 04 15 ACHAT DU                     08 04 15         308,500
+  59 10 04 15 ACHAT DU                     08 04 15          25,405
+  71 13 04 15 VERSEMENT                    14 04 15                         500,000
+  59 16 04 15 ACHAT DU                     15 04 15          60,000
+  71 16 04 15 CION/VIRT RECU               17 04 15           1,416
+  71 16 04 15 VIR O/AON  TUNISIE           17 04 15                          24,000
+  59 16 04 15 ACHAT DU                     15 04 15           5,980
+  59 16 04 15 ACHAT DU                     15 04 15          38,200
+  53 20 04 15 RECH TN USSD 20042015 058150 17 04 15           5,000
+  59 20 04 15 ACHAT DU                     17 04 15          34,180
+  82 21 04 15 CHQ 6937393 FAV HAMOUDA MOHA 20 04 15          90,000
+  59 22 04 15 ACHAT DU                     21 04 15          25,880
+  59 23 04 15 DAB CACS AB                  22 04 15          70,000
+  58 24 04 15 CION SUR CARTE TTC           24 04 15          80,000
+  32 24 04 15 INT/ CREDIT LONG TERME HABIT 27 04 15         480,163
+  71 27 04 15 CION/VIRT RECU               28 04 15           1,416
+  82 27 04 15 CHQ 6937394 FAV SOCIETE ALME 24 04 15          32,000
+  71 27 04 15 VIR O/ST MICRO ELECTRONICS S 28 04 15                       4 809,350
+  80 27 04 15 CION/REGLEMENT EFFET         27 04 15           2,950
+  80 27 04 15 REGLEMENT  EFFET  AU : 27042 27 04 15         297,898
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......      6 586,439      10 791,037
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                          6 586,439      10 791,037
+  53 28 04 15 TVA SUR AMENNET P1 04/15     27 04 15             720
+  53 28 04 15 CION  AMENNET P1 04/15       27 04 15           4,000
+  58 28 04 15 CION.CARTE 04/15             28 04 15          20,000
+  82 29 04 15 CHQ 6937391 FAV ELTEATRO STU 28 04 15         120,000
+  82 30 04 15 CHQ 6937395 FAV SOCIETE ALME 29 04 15          60,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      6 791,159      10 791,037
+
+              FOLIO NO :   2   SOLDE AU  30.04.2015                       3 999,878
+
+
+---
+---
+
