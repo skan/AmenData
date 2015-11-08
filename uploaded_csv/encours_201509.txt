@@ -1,0 +1,58 @@
+  AMEN BANK                                                              Edite le :30/09/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :      56,871
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     200,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|372427    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |19/09/2015 17:56:15|
+|458548    |        100,000|STE LE CAFE VERT      LA GOULETTE     TN     |12/09/2015 16:20:06|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :30/09/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4657,340
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|417010    |        100,000|ATM ENNASR             TUNIS          TN     |26/09/2015 18:53:03|
+|429728    |         12,465|CARREFOUR             EL MANAR        TN     |25/09/2015 10:52:19|
+|810910    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |15/09/2015 18:03:36|
+|257827    |        130,397|GEANT TUNIS CITY      ARIANA          TN     |13/09/2015 12:04:26|
+|577834    |        100,000|ATM RAOUED             ARIANA         TN     |10/09/2015 09:57:34|
+|344581    |        113,540|MABROUK DIFFUSION     MABROUK DIFFUSIOTN     |02/09/2015 18:59:14|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------

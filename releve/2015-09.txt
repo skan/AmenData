@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 08 15 ANCIEN SOLDE                                                1 062,347
+  53 01 09 15 RECH TN USSD 01092015 058150 31 08 15           5,000
+  82 01 09 15 CHQ 7123271 FAV LA COCOTTE M 31 08 15          32,000
+  59 03 09 15 ACHAT CACS DU                02 09 15         113,540
+  53 07 09 15 RECH TN USSD 07092015 058150 04 09 15          15,000
+  59 08 09 15 ACHAT CACS DU                07 09 15          43,129
+  59 08 09 15 ACHAT CACS DU                07 09 15          43,129
+  59 08 09 15 ANN ACHAT                    07 09 15                          43,129
+  59 08 09 15 ANN ACHAT                    07 09 15                          43,129
+  59 10 09 15 RCACS AB  DU                 09 09 15         100,000
+  58 11 09 15 TPE DU  08.09.15 OPE 722426  08 09 15          43,129
+  59 14 09 15 ACHAT CACS DU                11 09 15         130,397
+  53 15 09 15 RECH TN USSD 15092015 058150 14 09 15           5,000
+  65 16 09 15 TVA/COMM/AUT PASS DECOUVERT  15 09 15             792
+  65 16 09 15 COMM/AUT PASS DECOUVERT REF: 15 09 15           4,400
+  58 16 09 15 TPE DU  12.09.15 OPE 458548  12 09 15         100,000
+  82 16 09 15 CHQ 7123272 FAV STE BLUE MOT 15 09 15         734,000
+  59 16 09 15 RCACS AB  DU                 15 09 15         100,000
+  58 22 09 15 DAB AB 19.09.15 OPE 372427   18 09 15         100,000
+  61 22 09 15 CION ENC/ 1 CHQ 0            22 09 15             700
+  61 22 09 15 TVA SUR CION ENCAISSEMENT    22 09 15             126
+  53 23 09 15 CION  AMENNET P1 09/15       22 09 15           4,000
+  53 23 09 15 TVA SUR AMENNET P1 09/15     22 09 15             720
+  32 23 09 15 INT/ CREDIT LONG TERME HABIT 27 09 15         466,568
+  61 23 09 15 ENC 1 CHQ                    28 09 15                         530,000
+  71 23 09 15 CION/VIRT RECU               28 09 15           1,416
+  71 23 09 15 VIR O/ST MICRO ELECTRONICS S 28 09 15                       1 858,470
+  80 28 09 15 CION/REGLEMENT EFFET         27 09 15           2,950
+  59 28 09 15 ACHAT CACS DU                23 09 15          12,465
+  59 28 09 15 RCACS AB  DU                 23 09 15         100,000
+  80 28 09 15 REGLEMENT  EFFET  AU : 27092 27 09 15         307,157
+  12 30 09 15 FRAIS TENUE COMPTE AU 30/09/ 01 10 15          11,800
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 477,418       3 537,075
+
+              FOLIO NO :   1   SOLDE AU  30.09.2015                       1 059,657
+
+---
+
+---
+
