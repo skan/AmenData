@@ -1,0 +1,64 @@
+  AMEN BANK                                                              Edite le :03/12/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|018171    |        200,000|ATM STAR OIL           TUNIS          TN     |27/11/2015 14:19:29|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :03/12/2015
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|338993    |        200,000|ATM EL MANAR CAMPUS    TUNIS          TN     |29/11/2015 14:54:54|
+|198978    |         80,000|STE SANITAS           HAMMAMET        TN     |28/11/2015 10:55:55|
+|334489    |         39,000|LADY SHOES            CITE ENNASR     TN     |24/11/2015 18:27:37|
+|263079    |         17,500|ZAK DESIGNS           ZAK DESIGNS     TN     |21/11/2015 14:43:13|
+|316948    |         97,717|ULYSSE HYPER DISTRIBUTTUNIS           TN     |21/11/2015 14:14:53|
+|469025    |        100,000|ATM EL MANAR           TUNIS          TN     |20/11/2015 20:22:46|
+|759612    |         49,900|MODA SQUARE           RUE MAGHREB ARABTN     |20/11/2015 18:49:55|
+|370613    |         49,000|PRET A PORTER ELU     LA SOUKRA       TN     |20/11/2015 18:41:09|
+|440099    |         26,260|MONOPRIX EL MANAR     MANAR (EL)      TN     |15/11/2015 13:41:20|
+|107735    |         75,000|BEN BRAHIM HABIB      RESTAURANT DAR TTN     |13/11/2015 22:53:13|
+|249452    |         96,789|GEANT TUNIS CITY      ARIANA          TN     |12/11/2015 20:53:19|
+|197280    |         59,900|MABROUK DIFFUSION TUNITUNIS CITY      TN     |12/11/2015 20:12:33|
+|351995    |         24,980|PHARMACIE KHABTHANI BETUNIS           TN     |10/11/2015 17:29:16|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
