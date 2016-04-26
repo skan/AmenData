@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 12 15 ANCIEN SOLDE                                                  720,974
+  59 04 01 16 ACHAT CACS DU 02012016       31 12 15         112,050
+  53 04 01 16 RECH TN USSD 04012016 058160 31 12 15           5,000
+  82 05 01 16 CHQ 7294995 FAV HATEM TAKALI 04 01 16          59,000
+  71 06 01 16 CION/VIRT RECU               07 01 16           1,416
+  82 06 01 16 CHQ 7294989 FAV INTERBRANDS  05 01 16         219,000
+  71 06 01 16 VIR O/AON  TUNISIE           07 01 16                          70,482
+  82 07 01 16 CHQ 7294996 FAV KHROUF EP KT 06 01 16         300,000
+  53 08 01 16 RECH TN USSD 08012016 058160 07 01 16           5,000
+  12 13 01 16 INTERET AU  31/12/15         01 01 16           1,515
+  71 13 01 16 CION/VIRT RECU               15 01 16           1,416
+  71 13 01 16 VIR O/AON  TUNISIE           15 01 16                          70,482
+  59 18 01 16 ACHAT CACS DU 17012016       15 01 16          60,000
+  59 18 01 16 ACHAT CACS DU 16012016       15 01 16          11,179
+  59 18 01 16 ACHAT CACS DU 17012016       15 01 16          21,200
+  58 19 01 16 TPE DU  13.01.16 OPE 082657  13 01 16          13,595
+  32 19 01 16 INT/ CREDIT FINANCEMENT COMP 20 01 16         452,603
+  32 19 01 16 INT/ CREDIT FINANCEMENT COMP 20 01 16         452,603
+  32 19 01 16 INT/ CREDIT FINANCEMENT COMP 20 01 16         525,200
+  32 19 01 16 INT/ CREDIT FINANCEMENT COMP 20 01 16         525,200
+  80 25 01 16 CION DOMICIL. BAO IMP AU 200 22 01 16           2,500
+  80 25 01 16 TVA / CION DOMICILIATION EFF 22 01 16             450
+  32 26 01 16 INT/ CREDIT LONG TERME HABIT 27 01 16         428,030
+  53 27 01 16 TVA SUR AMENNET P1 01/16     26 01 16             720
+  53 27 01 16 CION  AMENNET P1 01/16       26 01 16           4,000
+  71 28 01 16 CION/VIRT RECU               29 01 16           1,416
+  71 28 01 16 VIR O/ST MICRO ELECTRONICS S 29 01 16                       1 815,490
+  71 28 01 16 VIR O/HAMZA SKANDER          29 01 16                       9 116,722
+  71 28 01 16 CION/VIRT RECU               29 01 16           1,416
+  80 29 01 16 CION / EFFET IMPAYE          29 01 16           8,260
+  80 29 01 16 INTERET DE RETARD SUR EFFET  29 01 16          19,560
+  80 29 01 16 REGLEMENT EFFET IMPAYE  2001 29 01 16       8 000,000
+  80 29 01 16 REGLEMENT  EFFET  AU : 27012 27 01 16         314,800
+  80 29 01 16 CION/REGLEMENT EFFET         27 01 16           2,950
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......     11 550,079      11 794,150
+
+              FOLIO NO :   1   SOLDE AU  31.01.2016                         244,071
+
+---
+
+---
+

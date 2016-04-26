@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     29 02 16 ANCIEN SOLDE                                                3 374,052
+  82 01 03 16 CHQ 7295000 FAV LEILA BEN HA 29 02 16          60,000
+  59 03 03 16 CION/RET DAB                 02 03 16             975
+  59 03 03 16 RCACS BL  02032016           02 03 16          50,000
+  59 03 03 16 TVA/CION RET DAB             02 03 16             175
+  82 11 03 16 CHQ 1168626 FAV MOHAMED HABI 10 03 16          60,000
+  59 11 03 16 RCACS AB  DU 10032016        10 03 16         400,000
+  59 11 03 16 RCACS AB  DU 10032016        10 03 16         700,000
+  59 14 03 16 ACHAT CACS DU 13032016       11 03 16          44,900
+  59 14 03 16 ACHAT CACS DU 12032016       11 03 16          82,000
+  59 14 03 16 ACHAT CACS DU 12032016       11 03 16           9,347
+  59 14 03 16 ACHAT CACS DU 13032016       11 03 16         104,200
+  59 14 03 16 RCACS AB  DU 13032016        11 03 16          50,000
+  59 16 03 16 ACHAT CACS DU 15032016       15 03 16          11,717
+  82 21 03 16 CHQ 1168627 FAV BIENS D EQUI 18 03 16          99,402
+  59 21 03 16 ACHAT CACS DU 18032016       18 03 16          70,000
+  32 25 03 16 INT/ CREDIT LONG TERME HABIT 27 03 16         393,414
+  59 25 03 16 ACHAT CACS DU 24032016       24 03 16          19,250
+  59 25 03 16 ACHAT CACS DU 24032016       24 03 16          26,486
+  59 25 03 16 ACHAT CACS DU 25032016       24 03 16          60,000
+  80 28 03 16 REGLEMENT  EFFET  AU : 27032 27 03 16         347,904
+  59 28 03 16 ACHAT CACS DU 27032016       25 03 16          29,744
+  80 28 03 16 CION/REGLEMENT EFFET         27 03 16           2,950
+  53 29 03 16 CION  AMENNET P1 03/16       28 03 16           5,000
+  53 29 03 16 TVA SUR AMENNET P1 03/16     28 03 16             900
+  71 29 03 16 VIR O/ST MICRO ELECTRONICS S 30 03 16                       1 815,490
+  71 29 03 16 CION/VIRT RECU               30 03 16           1,416
+  53 30 03 16 RECH TN USSD 30032016 058160 29 03 16           5,000
+  12 31 03 16 FRAIS TENUE COMPTE AU 31/03/ 01 04 16          14,160
+  71 31 03 16 VIR O/SLIM EL ABED           01 04 16                         320,000
+  71 31 03 16 CION/VIRT RECU               01 04 16           1,416
+  59 31 03 16 ACHAT CACS DU 31032016       30 03 16          30,000
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 680,356       5 509,542
+
+              FOLIO NO :   1   SOLDE AU  31.03.2016                       2 829,186
+
+---
+
+---
+
