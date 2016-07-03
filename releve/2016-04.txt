@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 03 16 ANCIEN SOLDE                                                2 829,186
+  53 04 04 16 RECH TN USSD 04042016 058160 01 04 16           5,000
+  12 05 04 16 INTERET AU  31/03/16         01 04 16           5,762
+  82 05 04 16 CHQ 1168633 FAV BOUTHOUR ABD 04 04 16         102,000
+  59 05 04 16 ACHAT CACS DU 04042016       04 04 16          42,777
+  71 06 04 16 CION/VIRT RECU               07 04 16           1,416
+  59 06 04 16 ACHAT CACS DU 05042016       05 04 16       2 163,000
+  71 06 04 16 VIR O/MR KHALSI MOHAMED RACH 07 04 16                         100,000
+  82 07 04 16 CHQ 1168634 FAV MR LIMAYMA A 06 04 16         285,000
+  71 11 04 16 VIR O/MR KHALSI MOHAMED RACH 12 04 16                         500,000
+  71 11 04 16 CION/VIRT RECU               12 04 16           1,416
+  82 11 04 16 CHQ 1168635 FAV SOCIETE ALME 08 04 16          63,000
+  82 18 04 16 CHQ 1168637 FAV SKORI        15 04 16         170,000
+  53 19 04 16 RECH TN USSD 19042016 058160 18 04 16           5,000
+  59 21 04 16 ACHAT CACS DU 20042016       20 04 16          36,118
+  59 25 04 16 ACHAT CACS DU 23042016       22 04 16          24,000
+  53 26 04 16 CION  AMENNET P1 04/16       25 04 16           5,000
+  53 26 04 16 TVA SUR AMENNET P1 04/16     25 04 16             900
+  32 26 04 16 INT/ CREDIT LONG TERME HABIT 27 04 16         417,347
+  59 26 04 16 RCACS AB  DU 25042016        25 04 16         100,000
+  71 27 04 16 VIR O/ST MICRO ELECTRONICS S 28 04 16                       4 975,100
+  59 27 04 16 ACHAT CACS DU 26042016       26 04 16          17,731
+  80 27 04 16 REGLEMENT  EFFET  AU : 27042 27 04 16         320,695
+  71 27 04 16 CION/VIRT RECU               28 04 16           1,416
+  80 27 04 16 CION/REGLEMENT EFFET         27 04 16           2,950
+  58 28 04 16 CION.CARTE 04/16             28 04 16         100,000
+  59 28 04 16 RCACS AB  DU 28042016        27 04 16         400,000
+  59 28 04 16 ACHAT CACS DU 28042016       27 04 16          60,000
+  59 29 04 16 ACHAT CACS DU 29042016       28 04 16          13,450
+  59 29 04 16 ACHAT CACS DU 28042016       28 04 16          99,000
+  59 29 04 16 RCACS AB  DU 29042016        28 04 16         100,000
+  59 29 04 16 ACHAT CACS DU 28042016       28 04 16         158,400
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      4 701,378       8 404,286
+
+              FOLIO NO :   1   SOLDE AU  30.04.2016                       3 702,908
+
+---
+
+---
+
