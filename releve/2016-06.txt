@@ -1,0 +1,141 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 05 16 ANCIEN SOLDE                                                3 698,387
+  53 02 06 16 RECH TN USSD 02062016 058160 01 06 16           5,000
+  59 06 06 16 ACHAT CACS DU 04062016       03 06 16          16,270
+  59 06 06 16 ACHAT CACS DU 04062016       03 06 16          17,000
+  59 06 06 16 ACHAT CACS DU 04062016       03 06 16          41,000
+  59 06 06 16 ACHAT CACS DU 04062016       03 06 16          36,000
+  53 06 06 16 RECH TN USSD 06062016 058160 03 06 16           5,000
+  59 06 06 16 ACHAT CACS DU 04062016       03 06 16          13,900
+  59 06 06 16 RCACS AB  DU 03062016        03 06 16         100,000
+  59 10 06 16 ACHAT CACS DU 09062016       09 06 16          19,233
+  59 13 06 16 TVA/CION RET DAB             10 06 16             175
+  59 13 06 16 CION/RET DAB                 10 06 16             975
+  59 13 06 16 ACHAT CACS DU 11062016       10 06 16          60,000
+  59 13 06 16 ACHAT CACS DU 10062016       10 06 16          48,070
+  59 13 06 16 RCACS BL  10062016           10 06 16          50,000
+  59 13 06 16 ANN ACHAT                    10 06 16                         139,000
+  59 13 06 16 ACHAT CACS DU 12062016       10 06 16          43,684
+  59 14 06 16 ACHAT CACS DU 13062016       13 06 16          15,900
+  82 14 06 16 CHQ 1168644 FAV MOALLA THAME 13 06 16         313,000
+  82 14 06 16 CHQ 1168643 FAV SOCIETE SAND 13 06 16          60,000
+  59 14 06 16 ACHAT CACS DU 13062016       13 06 16           3,990
+  59 15 06 16 ACHAT CACS DU 14062016       14 06 16           5,247
+  59 15 06 16 RCACS AB  DU 14062016        14 06 16          50,000
+  59 20 06 16 ACHAT CACS DU 17062016       17 06 16          13,046
+  59 23 06 16 RCACS AB  DU 22062016        22 06 16         100,000
+  32 24 06 16 INT/ CREDIT LONG TERME HABIT 27 06 16         416,649
+  82 24 06 16 CHQ 1168645 FAV MOHAMED HABI 23 06 16          52,000
+  53 27 06 16 CION  AMENNET P1 06/16       24 06 16           5,000
+  53 27 06 16 TVA SUR AMENNET P1 06/16     24 06 16             900
+  59 27 06 16 ACHAT CACS DU 26062016       24 06 16          31,200
+  59 27 06 16 TVA/CION RET DAB             24 06 16             175
+  59 27 06 16 CION/RET DAB                 24 06 16             975
+  59 27 06 16 RCACS BL  25062016           24 06 16          50,000
+  59 27 06 16 ACHAT CACS DU 26062016       24 06 16          66,000
+  80 27 06 16 REGLEMENT  EFFET  AU : 27062 27 06 16         324,655
+  80 27 06 16 CION/REGLEMENT EFFET         27 06 16           2,950
+  53 27 06 16 RECH TN USSD 27062016 058160 24 06 16           5,000
+
+      COMPTE NO: 058  105   58207 5    TOTAUX.......      1 972,994       3 837,387
+
+              FOLIO NO :   1
+
+---
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+                                                          1 972,994       3 837,387
+  82 27 06 16 CHQ 1168630 FAV C.C.E.ST MIC 24 06 16         120,000
+  82 27 06 16 CHQ 1168631 FAV C.C.E.ST MIC 24 06 16         320,000
+  59 27 06 16 ACHAT CACS DU 25062016       24 06 16          38,046
+  59 28 06 16 ACHAT CACS DU 27062016       27 06 16          12,762
+  71 29 06 16 CION/VIRT RECU               30 06 16           1,416
+  71 29 06 16 VIR O/ST MICRO ELECTRONICS S 30 06 16                       2 274,510
+  12 30 06 16 FRAIS TENUE COMPTE AU 30/06/ 01 07 16          14,160
+  59 30 06 16 ACHAT CACS DU 29062016       29 06 16           4,171
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      2 483,549       6 111,897
+
+              FOLIO NO :   2   SOLDE AU  30.06.2016                       3 628,348
+
+
+---
+---
+
