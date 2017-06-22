@@ -1,0 +1,71 @@
+---
+
+
+
+
+
+
+
+
+
+
+                                             HAMZA SKANDER
+
+                                             10 RUE GRENADE
+                                              MANAR1
+                                             2092 EL MANAR 2
+
+
+
+
+
+
+
+
+
+     31 12 16 ANCIEN SOLDE                                                2 376,541
+  59 02 01 17 RCACS AB  DU 31122016        30 12 16         250,000
+  59 02 01 17 ACHAT CACS DU 01012017       30 12 16          10,500
+  58 02 01 17    CBK EMIS                  02 01 17                          47,000
+  59 03 01 17 ACHAT CACS DU 03012017       02 01 17          50,000
+  58 04 01 17 TPE DU  31.12.16 OPE 020453  31 12 16          85,725
+  59 06 01 17 ACHAT CACS DU 05012017       05 01 17          57,383
+  59 09 01 17 ACHAT CACS DU 07012017       06 01 17          90,000
+  59 09 01 17 ACHAT CACS DU 07012017       06 01 17          49,800
+  59 16 01 17 ACHAT CACS DU 15012017       13 01 17         140,060
+  71 18 01 17 CION/VIRT RECU               19 01 17           1,770
+  71 18 01 17 VIR O/AON  TUNISIE           19 01 17                          24,000
+  32 19 01 17 INT/ CREDIT FINANCEMENT COMP 20 01 17         422,811
+  32 19 01 17 INT/ CREDIT FINANCEMENT COMP 20 01 17         422,811
+  32 19 01 17 INT/ CREDIT FINANCEMENT COMP 20 01 17         487,848
+  59 19 01 17 RCACS AB  DU 19012017        18 01 17         120,000
+  59 19 01 17 ACHAT CACS DU 19012017       18 01 17          20,480
+  59 23 01 17 ACHAT CACS DU 22012017       20 01 17          52,868
+  59 23 01 17 ACHAT CACS DU 21012017       20 01 17          47,600
+  80 23 01 17 CION DOMICIL. BAO IMP AU 200 20 01 17           2,500
+  80 23 01 17 TVA / CION DOMICILIATION EFF 20 01 17             450
+  71 25 01 17 VIR O/ST MICRO ELECTRONICS S 26 01 17                       2 099,720
+  59 25 01 17 ACHAT CACS DU 24012017       24 01 17          13,890
+  71 25 01 17 CION/VIRT RECU               26 01 17           1,770
+  53 26 01 17 CION  AMENNET P1 01/17       25 01 17           5,000
+  53 26 01 17 TVA SUR AMENNET P1 01/17     25 01 17             900
+  32 26 01 17 INT/ CREDIT LONG TERME HABIT 27 01 17         403,917
+  80 27 01 17 REGLEMENT  EFFET  AU : 27012 27 01 17         338,844
+  80 27 01 17 CION/REGLEMENT EFFET         27 01 17           2,950
+  59 30 01 17 ACHAT CACS DU 29012017       27 01 17          71,907
+  59 30 01 17 ACHAT CACS DU 30012017       27 01 17          50,000
+  59 30 01 17 ACHAT CACS DU 30012017       27 01 17         122,800
+  82 30 01 17 CHQ 1168650 FAV MOHAMED HABI 27 01 17          55,000
+  82 31 01 17 CHQ 1168649 FAV HERGUEL AHME 30 01 17          32,000
+  80 31 01 17 INTERET DE RETARD            30 01 17          23,857
+
+
+
+   01 COMPTE NO: 058  105   58207 5    TOTAUX.......      3 435,441       4 547,261
+
+              FOLIO NO :   1   SOLDE AU  31.01.2017                       1 111,820
+
+---
+
+---
+
