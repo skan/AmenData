@@ -13,11 +13,11 @@ if [ $# -lt 1 ] ; then
 fi
 
 DEFAULT_CSV=$1
-FORMATTED_QIF=$2
-
+CARTES_TXT=$2
 FORMATTED_QIF=$(basename "$DEFAULT_CSV")
 FORMATTED_QIF="${FORMATTED_QIF%.*}"
 FORMATTED_QIF=$FORMATTED_QIF.qif
+echo $CARTES_TXT
 echo "$FORMATTED_QIF"
 
 echo "Converting $DEFAULT_CSV, writing to $FORMATTED_QIF"
@@ -30,6 +30,17 @@ export IFS="|"
 
 cat $DEFAULT_CSV | while read account_num date_op description num date_val debit credit 
 do 
+   cacs=`echo $description | grep 'ACHAT\|TPE' `
+   if [ ! -z $cacs ]; then
+     debitClean=`echo $debit| sed -e "s/ //g"`
+     echo $debitClean
+     details=`grep $debitClean $2 | cut -d "|" -f4`
+     echo $details
+     if [ ! -z $details ]; then  
+        echo "replacing $description with sum = $debitClean with $details"
+        description=$details
+     fi
+   fi
    echo "D$date_op" >> $FORMATTED_QIF
    echo "M$description" >> $FORMATTED_QIF
    echo "N$num" >> $FORMATTED_QIF
