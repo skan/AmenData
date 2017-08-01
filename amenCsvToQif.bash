@@ -7,7 +7,8 @@
 # 
 
 if [ $# -lt 1 ] ; then
-    echo "Usage: $0 input_amen.csv"
+    echo "Usage: $0 input_amen.csv Encours.txt"^M
+    echo "encours data are parset since v2.0"^M
     echo output is : input_amen.qif
     exit 0
 fi
