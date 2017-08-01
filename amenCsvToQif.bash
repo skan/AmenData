@@ -18,10 +18,12 @@ CARTES_TXT=$2
 FORMATTED_QIF=$(basename "$DEFAULT_CSV")
 FORMATTED_QIF="${FORMATTED_QIF%.*}"
 FORMATTED_QIF=$FORMATTED_QIF.qif
-echo $CARTES_TXT
-echo "$FORMATTED_QIF"
+echo "input 1 $CARTES_TXT"
+echo "input 2 $FORMATTED_QIF"
 
-echo "Converting $DEFAULT_CSV, writing to $FORMATTED_QIF"
+echo "Converting $DEFAULT_CSV"
+echo "Writing to $FORMATTED_QIF"
+echo
 
 #format csv file to have "|" as separator with take care of the comma inside quotes
 awk -F'"' '{gsub(/,/,"|",$1);gsub(/,/,"|",$3);} 1' $DEFAULT_CSV > temp_formatted.csv
@@ -34,12 +36,13 @@ do
    cacs=`echo $description | grep 'ACHAT\|TPE' `
    if [ ! -z $cacs ]; then
      debitClean=`echo $debit| sed -e "s/ //g"`
-     echo $debitClean
+     echo -n $debitClean
      details=`grep $debitClean $2 | cut -d "|" -f4`
-     echo $details
-     if [ ! -z $details ]; then  
-        echo "replacing $description with sum = $debitClean with $details"
+     if [ ! -z $details ]; then  #amount is found in encours file, replace commercant name
+        echo -e "\t: $description --> $details"
         description=$details
+     else
+        echo -e "\t error: amount not found in cacs"
      fi
    fi
    echo "D$date_op" >> $FORMATTED_QIF
