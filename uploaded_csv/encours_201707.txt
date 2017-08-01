@@ -1,0 +1,66 @@
+  AMEN BANK                                                              Edite le :01/08/2017
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|633813    |         40,000|STE FIRAS PETROLE     STE FIRAS PETROLTN     |21/07/2017 17:16:53|
+|340526    |         20,000|STE HAMTEL            POLE TECHNOLOGIQTN     |20/07/2017 14:17:27|
+|039127    |         32,000|STEG                  STEG            TN     |19/07/2017 16:28:54|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/08/2017
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :    10000,000 Plafond Achat Disponible  (Dinars)   :   10000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|122509    |         21,198|CARREFOUR             BOUMHEL         TN     |30/07/2017 12:41:30|
+|787978    |         32,610|CARREFOUR             BOUMHEL         TN     |28/07/2017 15:38:00|
+|617383    |         18,850|MAGASIN GENERAL MAHDIAMAHDIA          TN     |15/07/2017 15:50:45|
+|592433    |        135,000|DAR SHAT              MAHDIA          TN     |15/07/2017 14:55:07|
+|958397    |         28,000|PHARMACIE JABEUR ABDERA EL OMRAN      TN     |14/07/2017 12:58:30|
+|794935    |         44,890|GEANT TUNIS CITY      ARIANA          TN     |14/07/2017 12:53:50|
+|787765    |         41,720|MONOPRIX MENZAH 6     TUNIS           TN     |11/07/2017 19:05:15|
+|085721    |         37,568|CARREFOUR             MENZEH 09       TN     |10/07/2017 20:27:44|
+|652298    |          9,545|MONOPRIX MENZAH 6     TUNIS           TN     |08/07/2017 20:11:25|
+|112806    |        420,000|REST EL MANSOURA      REST EL MANSOURATN     |07/07/2017 18:58:26|
+|685503    |          7,830|MONOPRIX EL MANAR     MANAR (EL)      TN     |06/07/2017 19:07:42|
+|680252    |        137,500|RES. BELLE VUE        RES BELLE VUE   TN     |03/07/2017 19:07:41|
+|427284    |         14,900|STE LA CONFIANCE      NABEUL          TN     |01/07/2017 20:23:19|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
