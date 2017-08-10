@@ -1,3 +1,65 @@
+  AMEN BANK                                                              Edite le :20/06/2017
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :20/06/2017
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :    10000,000 Plafond Achat Disponible  (Dinars)   :    9487,323
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|020430    |        368,500|TUNISAIR E.COM TND    TUNIS           TN     |15/06/2017 02:00:54|
+|016420    |         86,417|CARREFOUR             MENZEH 09       TN     |10/06/2017 15:21:49|
+|472695    |          7,090|CARREFOUR             MENZEH 09       TN     |05/06/2017 16:41:02|
+|691698    |         19,670|MONOPRIX MENZAH 6     TUNIS           TN     |04/06/2017 13:20:45|
+|109296    |         31,000|STE ALL SPORT         TUNIS R P       TN     |04/06/2017 12:52:50|
+|889634    |         64,700|SONEDE                AV SLIMANE BEN STN     |25/05/2017 22:35:40|
+|833592    |         10,700|SONEDE                AV SLIMANE BEN STN     |25/05/2017 22:32:24|
+|785667    |         55,000|STE AIDOUDI GROUPE    RTE DE BIZERTE  TN     |25/05/2017 09:33:59|
+|284475    |         40,000|RESTAURANT GHASSEN    TUNIS BELV      TN     |24/05/2017 22:21:07|
+|136648    |         22,000|FAC FOOD LE ZINK      EL MENZAH       TN     |23/05/2017 19:03:02|
+|678017    |         14,240|BC DISTRIBUTION       15 RUE EL MOEZ  TN     |23/05/2017 18:26:12|
+|267871    |         50,000|ATM EL MANAR CAMPUS    TUNIS          TN     |21/05/2017 22:36:21|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
   AMEN BANK                                                              Edite le :01/08/2017
   Centre Serveur Monetique - @MENNET
  
