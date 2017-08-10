@@ -1,0 +1,379 @@
+  AMEN BANK                                                              Edite le :01/02/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|082657    |         13,595|CARREFOUR             MENZEH 09       TN     |13/01/2016 18:06:20|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/02/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|287671    |         60,000|SKS TIK               SKS TIK         TN     |17/01/2016 23:38:39|
+|022327    |         21,200|SKS TIK               SKS TIK         TN     |17/01/2016 18:38:25|
+|249714    |         11,179|CARREFOUR             EL MANAR        TN     |16/01/2016 11:14:53|
+|012894    |        112,050|CARREFOUR             MENZEH 09       TN     |02/01/2016 12:33:45|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :29/02/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :29/02/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4903,177
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|006365    |         10,800|MONOPRIX EL MANAR     MANAR (EL)      TN     |27/02/2016 19:59:38|
+|661930    |         51,023|MONOPRIX EL MANAR     MANAR (EL)      TN     |25/02/2016 20:45:57|
+|654929    |         35,000|GPG*I-BIG DEAL 2      IMM ESPACE TUNISTN     |11/02/2016 17:57:14|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :31/03/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :31/03/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    4542,356
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|299053    |         29,744|GEANT TUNIS CITY      ARIANA          TN     |27/03/2016 14:24:22|
+|925091    |         60,000|SOCIETE ELAMEN STATIONX2 TAHAR BEN ACHTN     |25/03/2016 09:19:33|
+|327792    |         19,250|MONOPRIX EL MANAR     MANAR (EL)      TN     |24/03/2016 20:04:20|
+|806815    |         26,486|CARREFOUR             EL MANAR        TN     |24/03/2016 19:41:11|
+|895357    |         70,000|RESTAURANT GHASSEN    TUNIS BELV      TN     |18/03/2016 22:24:22|
+|857495    |         11,717|CARREFOUR             EL MANAR        TN     |15/03/2016 20:43:20|
+|812298    |         50,000|ATM EL MANAR CAMPUS    TUNIS          TN     |13/03/2016 15:12:29|
+|270221    |        104,200|CARREFOUR             MENZEH 09       TN     |13/03/2016 14:52:20|
+|208955    |         44,900|SPORT LEADER          TUNIS           TN     |13/03/2016 13:30:34|
+|628007    |          9,347|CARREFOUR             LAC 2           TN     |12/03/2016 20:20:50|
+|559510    |         82,000|TUNISIA MALL BOUTIQUE TUNISIA MALL LACTN     |12/03/2016 19:39:15|
+|368886    |        700,000|ATM RIADH EL ANDALOUS  TUNIS          TN     |10/03/2016 18:47:27|
+|650375    |        400,000|ATM RIADH EL ANDALOUS  TUNIS          TN     |10/03/2016 18:46:32|
+|655910    |         50,000|ABT AV DE PARIS II    TUNIS           TN     |02/03/2016 21:31:21|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/06/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|959930    |          6,923|CARREFOUR             EL MANAR        TN     |25/05/2016 20:54:47|
+|544291    |         43,800|STE LA VILLA          STE LA VILLA 1  TN     |24/05/2016 19:38:29|
+|372627    |         11,600|CARREFOUR             EL MANAR        TN     |19/05/2016 20:41:09|
+|656297    |         24,150|GPG*I-PICSTORE        1 IMAM IBN ARAFATN     |17/05/2016 15:18:58|
+|677019    |         21,660|GPG*I-PICSTORE        1 IMAM IBN ARAFATN     |17/05/2016 14:56:45|
+|433643    |         11,730|MONOPRIX EL MANAR     MANAR (EL)      TN     |16/05/2016 19:55:19|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/06/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|088029    |         78,874|CARREFOUR             MENZEH 09       TN     |30/05/2016 20:52:56|
+|747712    |         60,000|STE FIRAS PETROLE     STE FIRAS PETROLTN     |28/05/2016 22:46:37|
+|476855    |        100,000|ATM EL MENZAH VI       TUNIS          TN     |28/05/2016 12:30:27|
+|432098    |        139,000|STE ALL SPORT         TUNIS R P       TN     |28/05/2016 12:20:42|
+|676281    |        139,000|STE ALL SPORT         TUNIS R P       TN     |28/05/2016 12:19:58|
+|134224    |        156,000|STE ALL SPORT         TUNIS R P       TN     |28/05/2016 12:08:28|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/07/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/07/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|009897    |          4,171|MONOPRIX EL MANAR     MANAR (EL)      TN     |29/06/2016 17:55:30|
+|405490    |         12,762|MONOPRIX EL MANAR     MANAR (EL)      TN     |27/06/2016 17:16:55|
+|284420    |         66,000|STEG                  STEG            TN     |26/06/2016 17:22:55|
+|326913    |         31,200|SONEDE                AV SLIMANE BEN STN     |26/06/2016 17:14:08|
+|818142    |         50,000|GAB ENNASR            ENNASR II       TN     |25/06/2016 23:49:20|
+|367513    |         38,046|CARREFOUR             MENZEH 09       TN     |25/06/2016 14:00:00|
+|469238    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |22/06/2016 17:36:04|
+|800676    |         13,046|MONOPRIX EL MANAR     MANAR (EL)      TN     |17/06/2016 17:41:48|
+|298821    |          5,247|MONOPRIX EL MANAR     MANAR (EL)      TN     |14/06/2016 17:41:04|
+|561789    |         50,000|ATM EL MANAR CAMPUS    TUNIS          TN     |14/06/2016 17:27:33|
+|545099    |         15,900|CHILI S               EL MANAR        TN     |13/06/2016 19:27:31|
+|529674    |          3,990|MONOPRIX MENZAH 6     MENZAH6         TN     |13/06/2016 19:17:08|
+|032909    |         43,684|CARREFOUR             MENZEH 09       TN     |12/06/2016 14:42:33|
+|119064    |         50,000|DAB AL BARAKA LAC II  RUE LA BOURSE RETN     |10/06/2016 20:59:11|
+|426517    |         48,070|ULYSSE HYPER DISTRIBUTTUNIS           TN     |10/06/2016 20:35:33|
+|564639    |         19,233|CARREFOUR             EL MANAR        TN     |09/06/2016 17:01:11|
+|376611    |         41,000|SENWAN TRADING        LA SOUKRA       TN     |04/06/2016 19:20:02|
+|529462    |         13,900|CARREFOUR             MENZEH 09       TN     |04/06/2016 16:07:31|
+|694824    |         17,000|ESSAYAHA GOLF CARTHAGETUNIS           TN     |04/06/2016 15:22:54|
+|682535    |         16,270|MONOPRIX MENZAH 6     MENZAH6         TN     |04/06/2016 11:58:13|
+|579807    |         36,000|STE ALL SPORT         TUNIS R P       TN     |04/06/2016 11:41:49|
+|849103    |        100,000|ATM RIADH EL ANDALOUS  TUNIS          TN     |03/06/2016 18:37:24|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/08/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :01/08/2016
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :     5000,000 Plafond Achat Disponible  (Dinars)   :    5000,000
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|549284    |          5,460|MONOPRIX EL MANAR     MANAR (EL)      TN     |30/07/2016 14:12:54|
+|342889    |         63,000|LES HERITIERS BECHIR M2 RUE ALI BELHOUTN     |29/07/2016 16:44:41|
+|395122    |        150,000|ATM SOUKRA II          SOUKRA         TN     |29/07/2016 16:30:51|
+|275320    |          8,000|ST? BEST SPORT        CENTRE COMMERCIATN     |28/07/2016 19:10:29|
+|788720    |         89,251|SNMVT  EL MENZAH      EL MENZAH       TN     |27/07/2016 18:08:59|
+|500726    |        108,000|STE BAGABCAVALLO      HAMMAMET        TN     |26/07/2016 23:54:31|
+|565423    |         10,000|STE HAMTEL            EL GHAZALA      TN     |26/07/2016 10:20:05|
+|424938    |          7,200|SHANA                 SHANA LAC       TN     |21/07/2016 18:25:20|
+|921890    |         55,196|GEANT TUNIS CITY      ARIANA          TN     |20/07/2016 22:39:02|
+|646980    |         57,266|CARREFOUR             MENZEH 09       TN     |19/07/2016 20:24:44|
+|938002    |        190,000|ESSAYAHA GOLF CARTHAGETUNIS           TN     |18/07/2016 19:52:27|
+|070941    |        190,000|STE DANIMATION - DHOTEROUTE DE LA CORNTN     |17/07/2016 15:40:06|
+|037326    |        170,000|STE DANIMATION - DHOTEROUTE DE LA CORNTN     |16/07/2016 17:08:11|
+|919814    |         28,000|MARMECH TAREK         TUNIS           TN     |16/07/2016 10:40:09|
+|836954    |        140,000|ESSAYAHA GOLF CARTHAGETUNIS           TN     |14/07/2016 20:33:58|
+|756252    |         25,676|MONOPRIX EL MANAR     MANAR (EL)      TN     |13/07/2016 21:13:20|
+|321122    |         60,000|SOCIETE ALMERIA       TUNIS           TN     |11/07/2016 09:28:32|
+|057811    |         15,549|MONOPRIX EL MANAR     MANAR (EL)      TN     |10/07/2016 10:44:42|
+|289220    |         80,880|MONOPRIX MENZAH 6     MENZAH6         TN     |10/07/2016 09:40:38|
+|812296    |        155,000|STE DANIMATION - DHOTEROUTE DE LA CORNTN     |07/07/2016 17:37:15|
+|303317    |         22,921|CARREFOUR             MENZEH 09       TN     |05/07/2016 17:16:22|
+|486281    |         66,660|GEANT TUNIS CITY      ARIANA          TN     |03/07/2016 11:16:25|
+|731296    |         11,021|MONOPRIX EL MANAR     MANAR (EL)      TN     |02/07/2016 19:04:27|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
