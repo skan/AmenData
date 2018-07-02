@@ -15,16 +15,16 @@ fi
 
 DEFAULT_CSV=$1
 CARTES_TXT=$2
-FORMATTED_QIF=$(basename "$DEFAULT_CSV")
-FORMATTED_QIF="${FORMATTED_QIF%.*}"
-FORMATTED_QIF=$FORMATTED_QIF.txt
+OUTPUT_CSV=$(basename "$DEFAULT_CSV")
+OUTPUT_CSV="${OUTPUT_CSV%.*}"
+OUTPUT_CSV=output_$OUTPUT_CSV.csv
 
-rm -rfv $FORMATTED_QIF
+rm -rfv $OUTPUT_CSV
 echo "input 1 $CARTES_TXT"
-echo "input 2 $FORMATTED_QIF"
+echo "input 2 $OUTPUT_CSV"
 
 echo "Converting $DEFAULT_CSV"
-echo "Writing to $FORMATTED_QIF"
+echo "Writing to $OUTPUT_CSV"
 echo
 
 #format csv file to have "|" as separator with take care of the comma inside quotes
@@ -47,14 +47,14 @@ do
         echo -e "\t error: amount not found in cacs"
      fi
    fi
-   echo -n "$date_op" >> $FORMATTED_QIF
-   echo -n ";" >> $FORMATTED_QIF
-   echo -n "$description" >> $FORMATTED_QIF
-   echo -n ";" >> $FORMATTED_QIF
+   echo -n "$date_op" >> $OUTPUT_CSV
+   echo -n ";" >> $OUTPUT_CSV
+   echo -n "$description" >> $OUTPUT_CSV
+   echo -n ";" >> $OUTPUT_CSV
    if [ $debit ] ; then 
-      echo "-$debit" | sed -e "s/ //g" >> $FORMATTED_QIF #this sed is used to erase the space left on the inside quote value
+      echo "-$debit" | sed -e "s/ //g" >> $OUTPUT_CSV #this sed is used to erase the space left on the inside quote value
    else
-      echo "$credit" | sed -e "s/ //g" >> $FORMATTED_QIF
+      echo "$credit" | sed -e "s/ //g" >> $OUTPUT_CSV
    fi 
 done
 
