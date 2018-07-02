@@ -1,0 +1,71 @@
+  AMEN BANK                                                              Edite le :16/03/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :16/03/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :    10000,000 Plafond Achat Disponible  (Dinars)   :    9766,377
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|021418    |          9,800|GPG*I-SIGNCO          LEMAN RES BOSQUETN     |15/03/2018 23:11:53|
+|835828    |          9,800|GPG*I-SIGNCO          LEMAN RES BOSQUETN     |15/03/2018 23:08:08|
+|535529    |        500,000|ATM EL MANAR CAMPUS    TUNIS          TN     |09/03/2018 20:03:33|
+|382243    |         60,000|STE AIDOUDI GROUPE    RTE DE BIZERTE  TN     |06/03/2018 10:18:19|
+|041804    |         13,611|CARREFOUR             EL MANAR        TN     |05/03/2018 18:36:26|
+|172605    |         49,855|CARREFOUR             MENZEH 09       TN     |03/03/2018 14:15:08|
+|858629    |        180,000|DAB  CHARGUIA I       CHARGUIA I      TN     |03/03/2018 12:51:53|
+|294803    |         60,000|LE BAROQUE            BELVEDRE        TN     |02/03/2018 21:53:56|
+|167367    |        100,000|EL MENZEH 1           Tunis           TN     |02/03/2018 18:44:06|
+|118713    |         30,557|CARREFOUR             EL MANAR        TN     |01/03/2018 20:00:01|
+|336118    |         21,700|SONEDE                AV SLIMANE BEN STN     |27/02/2018 09:56:12|
+|853749    |          8,772|CARREFOUR             RAOUED          TN     |26/02/2018 20:08:35|
+|587397    |        112,400|ZAK DESIGNS           TUNIS           TN     |25/02/2018 12:58:50|
+|474066    |         72,665|CARREFOUR             MENZEH 09       TN     |24/02/2018 12:34:52|
+|780829    |        500,000|ATM STAR OIL           TUNIS          TN     |24/02/2018 08:47:13|
+|919194    |        110,000|ATM STAR OIL           TUNIS          TN     |24/02/2018 08:46:28|
+|688012    |         38,115|MONOPRIX EL MANAR     MANAR (EL)      TN     |17/02/2018 20:19:21|
+|050722    |        230,000|ATM MANOUBA            TUNIS          TN     |17/02/2018 16:21:57|
+|927423    |         35,000|STEG                  STEG            TN     |15/02/2018 18:51:57|
+|726939    |          8,880|CARREFOUR             EL MANAR        TN     |14/02/2018 19:46:28|
+|112840    |         50,000|GAB AG EL MANAR CAMPUSEL MANAR I      TN     |14/02/2018 09:45:58|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------

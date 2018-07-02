@@ -1,0 +1,76 @@
+  AMEN BANK                                                              Edite le :17/05/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     124,900
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|793638    |          3,800|CARREFOUR             EL MANAR        TN     |04/05/2018 19:56:13|
+|554142    |          6,300|CARREFOUR             EL MANAR        TN     |04/05/2018 19:51:37|
+|560441    |         65,000|SOCIETE ELAMEN STATIONX2 TAHAR BEN ACHTN     |04/05/2018 19:02:22|
+|703683    |          8,000|MONOPRIX EL MANAR     MANAR (EL)      TN     |24/04/2018 19:01:56|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :17/05/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :    10000,000 Plafond Achat Disponible  (Dinars)   :    9601,936
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|287229    |         30,000|HAMTEL                POLE TECHNIQUE ETN     |31/05/2018 22:51:54|
+|449853    |         50,000|SHELL RTE X BARDO/STE BARDO           TN     |30/05/2018 19:13:42|
+|776882    |         12,684|CARREFOUR             EL MANAR        TN     |26/05/2018 14:34:02|
+|195944    |        503,758|MUNICIPALITE DE TUNIS MUNICIPALITE DE TN     |23/05/2018 20:08:27|
+|498096    |        100,000|ATM EL MANAR           TUNIS          TN     |20/05/2018 14:44:55|
+|208617    |         21,105|CARREFOUR             EL MANAR        TN     |20/05/2018 12:45:54|
+|867469    |         60,000|SHELL RTE X BARDO/STE BARDO           TN     |19/05/2018 18:57:02|
+|187821    |         13,605|CARREFOUR             EL MANAR        TN     |18/05/2018 17:39:35|
+|237942    |          5,835|MONOPRIX EL MANAR     MANAR (EL)      TN     |16/05/2018 19:58:15|
+|375764    |         42,125|CARREFOUR             EL MANAR        TN     |11/05/2018 16:33:14|
+|439076    |          5,399|MONOPRIX EL MANAR     MANAR (EL)      TN     |08/05/2018 18:44:57|
+|242398    |         30,144|MONOPRIX EL MANAR     MANAR (EL)      TN     |07/05/2018 21:31:38|
+|527325    |        400,000|ATM RAOUED             ARIANA         TN     |07/05/2018 10:01:26|
+|172278    |         18,116|MONOPRIX EL MANAR     MANAR (EL)      TN     |06/05/2018 18:13:06|
+|037067    |         20,000|HAMTEL                POLE TECHNIQUE ETN     |04/05/2018 15:00:34|
+|067958    |         52,488|MUNICIPALITE DE TUNIS MUNICIPALITE DE TN     |04/05/2018 14:08:23|
+|346093    |         39,000|STEG                  STEG            TN     |04/05/2018 14:02:57|
+|754482    |         10,900|SONEDE                AV SLIMANE BEN STN     |04/05/2018 14:00:56|
+|558339    |         21,400|SONEDE                AV SLIMANE BEN STN     |04/05/2018 13:58:46|
+|249006    |         79,000|STEG                  STEG            TN     |04/05/2018 13:53:03|
+|733869    |         27,657|GEANT TUNIS CITY      ARIANA          TN     |03/05/2018 18:57:27|
+|237225    |         46,000|DECATHLON TUNISIE SAR TUNIS           TN     |03/05/2018 18:13:51|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------

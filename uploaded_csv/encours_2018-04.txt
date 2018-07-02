@@ -1,0 +1,78 @@
+  AMEN BANK                                                              Edite le :16/04/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|703683    |          8,000|MONOPRIX EL MANAR     MANAR (EL)      TN     |24/04/2018 19:01:56|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :16/04/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :    10000,000 Plafond Achat Disponible  (Dinars)   :    9729,482
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|426897    |         22,920|CARREFOUR             EL MANAR        TN     |30/04/2018 17:58:04|
+|657843    |         15,860|GEANT TUNIS CITY      ARIANA          TN     |28/04/2018 13:59:55|
+|810256    |        500,000|ATM BIZERTE            BIZERTE        TN     |28/04/2018 11:48:11|
+|156345    |        500,000|ATM BIZERTE            BIZERTE        TN     |28/04/2018 11:47:14|
+|964362    |        500,000|ATM BIZERTE            BIZERTE        TN     |28/04/2018 11:44:56|
+|355487    |         30,000|DAB CARREFOUR MARKET MCARREFOUR MARKETTN     |27/04/2018 18:45:21|
+|506366    |         37,000|SOCIETE BARAKA FOOD   IMM AZOUZ REBAI TN     |26/04/2018 21:11:22|
+|919582    |         55,420|MONOPRIX EL MANAR     MANAR (EL)      TN     |21/04/2018 18:09:10|
+|492653    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |21/04/2018 16:53:29|
+|863755    |         12,088|PHARMACIE FRINI       PHARM FRINI     TN     |21/04/2018 14:01:37|
+|587336    |         11,815|CARREFOUR             EL MANAR        TN     |20/04/2018 18:42:34|
+|905528    |         20,000|HAMTEL                POLE TECHNIQUE ETN     |17/04/2018 11:27:16|
+|051643    |        350,000|ATM BTL PETITE ARIANA BTL PETITE ARIANTN     |17/04/2018 07:28:47|
+|271161    |         12,600|PHCIE ALYSSA            EL MANAR      TN     |14/04/2018 17:54:49|
+|187046    |         17,515|CARREFOUR             MENZEH 09       TN     |14/04/2018 17:42:43|
+|825338    |         28,780|SOUAD DIFFUSION       ZONE INDUSTRUELLTN     |14/04/2018 17:26:00|
+|172782    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |14/04/2018 13:33:46|
+|234976    |         18,760|SOUAD DIFFUSION       ZONE INDUSTRUELLTN     |13/04/2018 19:12:32|
+|096566    |          2,525|CARREFOUR             EL MANAR        TN     |11/04/2018 19:04:34|
+|694811    |         25,059|CARREFOUR             EL MANAR        TN     |11/04/2018 18:57:19|
+|325356    |         60,000|STE EXP GESTION POINT STATION ARIANA VTN     |10/04/2018 20:23:05|
+|315372    |          8,824|CARREFOUR             EL MANAR        TN     |09/04/2018 18:23:08|
+|258876    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |09/04/2018 10:28:16|
+|569496    |         52,555|MONOPRIX EL MANAR     MANAR (EL)      TN     |08/04/2018 12:48:12|
+|057572    |        100,000|ATM RAOUED             ARIANA         TN     |04/04/2018 09:12:37|
+|465524    |         43,900|CARREFOUR             EL MANAR        TN     |03/04/2018 19:38:53|
+|321719    |         40,000|ATM BH EL GHAZALA     ARIANA          TN     |02/04/2018 18:32:16|
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------

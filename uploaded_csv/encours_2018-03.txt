@@ -1,0 +1,66 @@
+  AMEN BANK                                                              Edite le :06/03/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : Visa gold national
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :      200,000 Plafond Achat Disponible  (Dinars)   :     200,000
+Plafond Retrait (Dinars):      300,000 Plafond Retrait Disponible  (Dinars) :     300,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+ 
+ 
+----------------------------------------------------------------------------------------------
+  AMEN BANK                                                              Edite le :06/03/2018
+  Centre Serveur Monetique - @MENNET
+ 
+                                      RELEVE CARTE BANCAIRE
+ 
+ 
+ 
+Nom et Prenom / RAISON SOCIALE : HAMZA SKANDER                           
+Type Carte                     : SESAME
+N° COMPTE                      : 058105582075
+ 
+Plafond Achat (Dinars)  :    10000,000 Plafond Achat Disponible  (Dinars)   :    9845,977
+Plafond Retrait (Dinars):        0,000 Plafond Retrait Disponible  (Dinars) :       0,000
+ 
+ 
+ 
+                      Liste des transactions autorisées par la banque              
+ 
+----------------------------------------------------------------------------------------------
+|N° AUT    |  Montant      |  Commercant                                 | DATE / HEURE      |
+----------------------------------------------------------------------------------------------
+|370744    |        100,000|ATM EL MANAR CAMPUS    TUNIS          TN     |30/03/2018 20:00:10|
+|767954    |         16,978|MONOPRIX EL MANAR     MANAR (EL)      TN     |30/03/2018 13:19:15|
+|887892    |          7,450|MONOPRIX EL MANAR     MANAR (EL)      TN     |28/03/2018 19:32:51|
+|022160    |         18,010|MONOPRIX EL MANAR     MANAR (EL)      TN     |27/03/2018 21:40:21|
+|709317    |        500,000|ATM EL MANAR CAMPUS    TUNIS          TN     |27/03/2018 21:15:33|
+|158568    |        650,000|ATM EL MANAR CAMPUS    TUNIS          TN     |27/03/2018 21:14:36|
+|564509    |        480,000|TRABELSI WAEL         TUNIS REPU      TN     |26/03/2018 19:17:03|
+|175629    |          8,977|MONOPRIX EL MANAR     MANAR (EL)      TN     |24/03/2018 15:11:12|
+|590000    |         15,000|HAMTEL                POLE TECHNIQUE ETN     |24/03/2018 10:00:34|
+|021418    |          9,800|GPG*I-SIGNCO          LEMAN RES BOSQUETN     |15/03/2018 23:11:53|
+|835828    |          9,800|GPG*I-SIGNCO          LEMAN RES BOSQUETN     |15/03/2018 23:08:08|
+|535529    |        500,000|ATM EL MANAR CAMPUS    TUNIS          TN     |09/03/2018 20:03:33|
+|382243    |         60,000|STE AIDOUDI GROUPE    RTE DE BIZERTE  TN     |06/03/2018 10:18:19|
+|041804    |         13,611|CARREFOUR             EL MANAR        TN     |05/03/2018 18:36:26|
+|172605    |         49,855|CARREFOUR             MENZEH 09       TN     |03/03/2018 14:15:08|
+|858629    |        180,000|DAB  CHARGUIA I       CHARGUIA I      TN     |03/03/2018 12:51:53|
+|294803    |         60,000|LE BAROQUE            BELVEDRE        TN     |02/03/2018 21:53:56|
+|167367    |        100,000|EL MENZEH 1           Tunis           TN     |02/03/2018 18:44:06|
+|118713    |         30,557|CARREFOUR             EL MANAR        TN     |01/03/2018 20:00:01|
+---------------------------------------------------------------------------------------------
