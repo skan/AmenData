@@ -17,7 +17,7 @@ DEFAULT_CSV=$1
 CARTES_TXT=$2
 FORMATTED_QIF=$(basename "$DEFAULT_CSV")
 FORMATTED_QIF="${FORMATTED_QIF%.*}"
-FORMATTED_QIF=$FORMATTED_QIF.qif
+FORMATTED_QIF=$FORMATTED_QIF.txt
 
 rm -rfv $FORMATTED_QIF
 echo "input 1 $CARTES_TXT"
@@ -47,15 +47,15 @@ do
         echo -e "\t error: amount not found in cacs"
      fi
    fi
-   echo "D$date_op" >> $FORMATTED_QIF
-   echo "M$description" >> $FORMATTED_QIF
-   echo "N$num" >> $FORMATTED_QIF
+   echo -n "$date_op" >> $FORMATTED_QIF
+   echo -n ";" >> $FORMATTED_QIF
+   echo -n "$description" >> $FORMATTED_QIF
+   echo -n ";" >> $FORMATTED_QIF
    if [ $debit ] ; then 
-      echo "T-$debit" | sed -e "s/ //g" >> $FORMATTED_QIF #this sed is used to erase the space left on the inside quote value
+      echo "-$debit" | sed -e "s/ //g" >> $FORMATTED_QIF #this sed is used to erase the space left on the inside quote value
    else
-      echo "T$credit" | sed -e "s/ //g" >> $FORMATTED_QIF
+      echo "$credit" | sed -e "s/ //g" >> $FORMATTED_QIF
    fi 
-   echo "^" >> $FORMATTED_QIF
 done
 
 rm temp_formatted.csv
