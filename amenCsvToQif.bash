@@ -62,7 +62,14 @@ do
    fi 
 done
 
+outputNumberOfLines=`cat $OUTPUT_CSV | wc -l`
+inputNumberOfLines=`cat $DEFAULT_CSV | wc -l`
+if [ $outputNumberOfLines = $inputNumberOfLines ]; then
+	echo "Done! $inputNumberOfLines transactions"
+else
+	echo "output lines $outputNumberOfLines is different from input : $inputNumberOfLines"
+fi
+
 rm temp_formatted.csv
 
-echo Done!
 exit 1
