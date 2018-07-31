@@ -35,11 +35,16 @@ export IFS="|"
 
 cat $DEFAULT_CSV | while read account_num date_op description num date_val debit credit 
 do 
+   echo $date_op $description
    cacs=`echo $description | grep 'ACHAT\|TPE' `
    if [ ! -z $cacs ]; then
      debitClean=`echo $debit| sed -e "s/ //g"`
-     echo -n $debitClean
-     details=`grep $debitClean $2 | cut -d "|" -f4`
+	 if [ ! -z $debitClean ] ; then
+     	details=`grep -w $debitClean $2 | cut -d "|" -f4`
+	 else #annulation achat
+     	creditClean=`echo $credit| sed -e "s/ //g"`
+     	details=`grep $creditClean $2 | cut -d "|" -f4`
+	 fi
      if [ ! -z $details ]; then  #amount is found in encours file, replace commercant name
         echo -e "\t: $description --> $details"
         description=$details
@@ -58,7 +63,14 @@ do
    fi 
 done
 
+outputNumberOfLines=`cat $OUTPUT_CSV | wc -l`
+inputNumberOfLines=`cat $DEFAULT_CSV | wc -l`
+if [ $outputNumberOfLines = $inputNumberOfLines ]; then
+	echo "Done! $inputNumberOfLines transactions"
+else
+	echo "output lines $outputNumberOfLines is different from input : $inputNumberOfLines"
+fi
+
 rm temp_formatted.csv
 
-echo Done!
 exit 1
