@@ -38,8 +38,12 @@ do
    cacs=`echo $description | grep 'ACHAT\|TPE' `
    if [ ! -z $cacs ]; then
      debitClean=`echo $debit| sed -e "s/ //g"`
-     echo -n $debitClean
-     details=`grep $debitClean $2 | cut -d "|" -f4`
+	 if [ ! -z $debitClean ] ; then
+     	details=`grep $debitClean $2 | cut -d "|" -f4`
+	 else
+     	creditClean=`echo $credit| sed -e "s/ //g"`
+     	details=`grep $creditClean $2 | cut -d "|" -f4`
+	 fi
      if [ ! -z $details ]; then  #amount is found in encours file, replace commercant name
         echo -e "\t: $description --> $details"
         description=$details
