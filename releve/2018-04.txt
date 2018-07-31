@@ -1,0 +1,11 @@
+<title>Accès refusé</title>
+Accès refusé
+
+<p>
+    Votre rôle actuel ne vous permet pas de voir cette page. Veuillez contacter votre agence.  Vous pouvez essayer de retourner à <a href="/mesComptes.html?method=listComptes">Retour</a>.
+      
+</p>
+<p style="text-align: center; margin-top: 20px">
+   
+   
+</p>
