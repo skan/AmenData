@@ -39,8 +39,8 @@ do
    if [ ! -z $cacs ]; then
      debitClean=`echo $debit| sed -e "s/ //g"`
 	 if [ ! -z $debitClean ] ; then
-     	details=`grep $debitClean $2 | cut -d "|" -f4`
-	 else
+     	details=`grep -w $debitClean $2 | cut -d "|" -f4`
+	 else #annulation achat
      	creditClean=`echo $credit| sed -e "s/ //g"`
      	details=`grep $creditClean $2 | cut -d "|" -f4`
 	 fi
