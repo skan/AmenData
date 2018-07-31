@@ -35,6 +35,7 @@ export IFS="|"
 
 cat $DEFAULT_CSV | while read account_num date_op description num date_val debit credit 
 do 
+   echo $date_op $description
    cacs=`echo $description | grep 'ACHAT\|TPE' `
    if [ ! -z $cacs ]; then
      debitClean=`echo $debit| sed -e "s/ //g"`
